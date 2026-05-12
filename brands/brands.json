@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "BMW",
+    "logo": "https://raw.githubusercontent.com/YOUR_USERNAME/qaraj-data/main/logos/bmw.png"
+  },
+  {
+    "id": 2,
+    "name": "Toyota",
+    "logo": "https://raw.githubusercontent.com/YOUR_USERNAME/qaraj-data/main/logos/toyota.png"
+  },
+  {
+    "id": 3,
+    "name": "Mercedes",
+    "logo": "https://raw.githubusercontent.com/YOUR_USERNAME/qaraj-data/main/logos/mercedes.png"
+  }
+]
