@@ -1,62 +1,62 @@
 [
   {
     "id": 1,
-    "name": "BMW",
+    "brand": "BMW",
     "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/logos/logo_bmw.png"
   },
   {
     "id": 2,
-    "name": "Mercedes",
+    "brand": "Mercedes",
     "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/logos/logo_mercedes.png"
   },
   {
     "id": 3,
-    "name": "Hyundai",
+    "brand": "Hyundai",
     "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/logos/logo_hyundai.png"
   },
   {
     "id": 4,
-    "name": "Kia",
+    "brand": "Kia",
     "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/logos/logo_kia.png"
   },
   {
     "id": 5,
-    "name": "Ford",
+    "brand": "Ford",
     "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/logos/logo_ford.png"
   },
   {
     "id": 6,
-    "name": "Chevrolet",
+    "brand": "Chevrolet",
     "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/logos/logo_chevrolet.png"
   },
   {
     "id": 7,
-    "name": "Mazda",
+    "brand": "Mazda",
     "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/logos/logo_mazda.png"
   },
   {
     "id": 8,
-    "name": "Changan",
+    "brand": "Changan",
     "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/logos/logo_changan.png"
   },
   {
     "id": 9,
-    "name": "Opel",
+    "brand": "Opel",
     "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/logos/logo_opel.png"
   },
   {
     "id": 10,
-    "name": "Nissan",
+    "brand": "Nissan",
     "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/logos/logo_nissan.png"
   },
   {
     "id": 11,
-    "name": "Land Rover",
+    "brand": "Land Rover",
     "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/logos/logo_land_rover.png"
   },
   {
     "id": 12,
-    "name": "Toyota",
+    "brand": "Toyota",
     "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/logos/logo_toyota.png"
   }
 ]
