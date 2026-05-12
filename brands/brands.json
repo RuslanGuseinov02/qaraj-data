@@ -2,16 +2,56 @@
   {
     "id": 1,
     "name": "BMW",
-    "logo": "https://raw.githubusercontent.com/YOUR_USERNAME/qaraj-data/main/logos/bmw.png"
+    "logo": "https://raw.githubusercontent.com/YOUR_USERNAME/qaraj-data/main/logos/bmw.svg"
   },
   {
     "id": 2,
-    "name": "Toyota",
-    "logo": "https://raw.githubusercontent.com/YOUR_USERNAME/qaraj-data/main/logos/toyota.png"
+    "name": "Mercedes",
+    "logo": "https://raw.githubusercontent.com/YOUR_USERNAME/qaraj-data/main/logos/mercedes.svg"
   },
   {
     "id": 3,
-    "name": "Mercedes",
-    "logo": "https://raw.githubusercontent.com/YOUR_USERNAME/qaraj-data/main/logos/mercedes.png"
+    "name": "Hyundai",
+    "logo": "https://raw.githubusercontent.com/YOUR_USERNAME/qaraj-data/main/logos/hyundai.svg"
+  },
+  {
+    "id": 4,
+    "name": "Kia",
+    "logo": "https://raw.githubusercontent.com/YOUR_USERNAME/qaraj-data/main/logos/kia.svg"
+  },
+  {
+    "id": 5,
+    "name": "Ford",
+    "logo": "https://raw.githubusercontent.com/YOUR_USERNAME/qaraj-data/main/logos/ford.svg"
+  },
+  {
+    "id": 6,
+    "name": "Chevrolet",
+    "logo": "https://raw.githubusercontent.com/YOUR_USERNAME/qaraj-data/main/logos/chevrolet.svg"
+  },
+  {
+    "id": 7,
+    "name": "Mazda",
+    "logo": "https://raw.githubusercontent.com/YOUR_USERNAME/qaraj-data/main/logos/mazda.svg"
+  },
+  {
+    "id": 8,
+    "name": "Changan",
+    "logo": "https://raw.githubusercontent.com/YOUR_USERNAME/qaraj-data/main/logos/changan.svg"
+  },
+  {
+    "id": 9,
+    "name": "Opel",
+    "logo": "https://raw.githubusercontent.com/YOUR_USERNAME/qaraj-data/main/logos/opel.svg"
+  },
+  {
+    "id": 10,
+    "name": "Nissan",
+    "logo": "https://raw.githubusercontent.com/YOUR_USERNAME/qaraj-data/main/logos/nissan.svg"
+  },
+  {
+    "id": 11,
+    "name": "Land Rover",
+    "logo": "https://raw.githubusercontent.com/YOUR_USERNAME/qaraj-data/main/logos/land_rover.svg"
   }
 ]
