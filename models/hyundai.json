@@ -1,0 +1,78 @@
+[
+  { "id": 1, "model": "Accent" },
+  { "id": 2, "model": "Avante" },
+  { "id": 3, "model": "Azera" },
+
+  { "id": 4, "model": "Bayon" },
+  { "id": 5, "model": "County" },
+  { "id": 6, "model": "Coupe" },
+  { "id": 7, "model": "Creta" },
+
+  { "id": 8, "model": "Elantra" },
+  { "id": 9, "model": "Elantra GT" },
+  { "id": 10, "model": "Elantra N" },
+  { "id": 11, "model": "Elantra N Line" },
+
+  { "id": 12, "model": "Equus" },
+  { "id": 13, "model": "Galloper" },
+
+  { "id": 14, "model": "Genesis" },
+  { "id": 15, "model": "Genesis Coupe" },
+
+  { "id": 16, "model": "Getz" },
+
+  { "id": 17, "model": "Grand Santa Fe" },
+  { "id": 18, "model": "Grandeur" },
+
+  { "id": 19, "model": "H100" },
+  { "id": 20, "model": "H350" },
+
+  { "id": 21, "model": "H-1" },
+
+  { "id": 22, "model": "HD120" },
+  { "id": 23, "model": "HD270" },
+  { "id": 24, "model": "HD35" },
+  { "id": 25, "model": "HD65" },
+  { "id": 26, "model": "HD72" },
+  { "id": 27, "model": "HD78" },
+
+  { "id": 28, "model": "i10" },
+  { "id": 29, "model": "i20" },
+  { "id": 30, "model": "i30" },
+  { "id": 31, "model": "i40" },
+
+  { "id": 32, "model": "IONIQ" },
+  { "id": 33, "model": "IONIQ 5" },
+
+  { "id": 34, "model": "ix35" },
+  { "id": 35, "model": "ix55" },
+
+  { "id": 36, "model": "Kona" },
+
+  { "id": 37, "model": "Matrix" },
+  { "id": 38, "model": "Maxcruz" },
+
+  { "id": 39, "model": "Mighty EX5" },
+  { "id": 40, "model": "Mighty EX6" },
+  { "id": 41, "model": "Mighty EX8" },
+  { "id": 42, "model": "Mighty EX9" },
+  { "id": 43, "model": "Mighty GT11" },
+
+  { "id": 44, "model": "Palisade" },
+  { "id": 45, "model": "Santa Cruz" },
+  { "id": 46, "model": "Santa Fe" },
+
+  { "id": 47, "model": "Sonata" },
+  { "id": 48, "model": "Sonata N Line" },
+
+  { "id": 49, "model": "Staria" },
+  { "id": 50, "model": "Terracan" },
+  { "id": 51, "model": "Tiburon" },
+  { "id": 52, "model": "Tucson" },
+  { "id": 53, "model": "Tucson L" },
+
+  { "id": 54, "model": "Veloster" },
+  { "id": 55, "model": "Venue" },
+  { "id": 56, "model": "Veracruz" },
+  { "id": 57, "model": "Verna" }
+]
