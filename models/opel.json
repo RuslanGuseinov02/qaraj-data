@@ -15,17 +15,16 @@
   { "id": 11, "model": "Mokka X" },
 
   { "id": 12, "model": "Omega" },
-  { "id": 13, "model": "Rekord" },
 
-  { "id": 14, "model": "Signum" },
-  { "id": 15, "model": "Sintra" },
+  { "id": 13, "model": "Signum" },
+  { "id": 14, "model": "Sintra" },
 
-  { "id": 16, "model": "Tigra" },
+  { "id": 15, "model": "Tigra" },
 
-  { "id": 17, "model": "Vectra" },
-  { "id": 18, "model": "Vita" },
+  { "id": 16, "model": "Vectra" },
+  { "id": 17, "model": "Vita" },
 
-  { "id": 19, "model": "Vivaro" },
+  { "id": 18, "model": "Vivaro" },
 
-  { "id": 20, "model": "Zafira" }
+  { "id": 19, "model": "Zafira" }
 ]
