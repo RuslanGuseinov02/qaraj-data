@@ -31,9 +31,10 @@
   { "id": 28, "model": "M3" },
   { "id": 29, "model": "M4" },
   { "id": 30, "model": "M5" },
-  { "id": 31, "model": "M8" },
-  { "id": 32, "model": "X3 M" },
-  { "id": 33, "model": "X4 M" },
-  { "id": 34, "model": "X5 M" },
-  { "id": 35, "model": "X6 M" }
+  { "id": 31, "model": "M6" },
+  { "id": 32, "model": "M8" },
+  { "id": 33, "model": "X3 M" },
+  { "id": 34, "model": "X4 M" },
+  { "id": 35, "model": "X5 M" },
+  { "id": 36, "model": "X6 M" }
 ]
