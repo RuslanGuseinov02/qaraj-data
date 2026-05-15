@@ -16,15 +16,14 @@
 
   { "id": 12, "model": "Omega" },
 
-  { "id": 13, "model": "Signum" },
-  { "id": 14, "model": "Sintra" },
+  { "id": 13, "model": "Sintra" },
 
-  { "id": 15, "model": "Tigra" },
+  { "id": 14, "model": "Tigra" },
 
-  { "id": 16, "model": "Vectra" },
-  { "id": 17, "model": "Vita" },
+  { "id": 15, "model": "Vectra" },
+  { "id": 16, "model": "Vita" },
 
-  { "id": 18, "model": "Vivaro" },
+  { "id": 17, "model": "Vivaro" },
 
-  { "id": 19, "model": "Zafira" }
+  { "id": 18, "model": "Zafira" }
 ]
