@@ -1,0 +1,77 @@
+[
+  { "id": 1, "model": "4Runner" },
+  { "id": 2, "model": "Alphard" },
+  { "id": 3, "model": "Aqua" },
+  { "id": 4, "model": "Aurion" },
+  { "id": 5, "model": "Auris" },
+  { "id": 6, "model": "Avalon" },
+  { "id": 7, "model": "Avensis" },
+
+  { "id": 8, "model": "bZ3X" },
+  { "id": 9, "model": "bZ4X" },
+
+  { "id": 10, "model": "C-HR" },
+  { "id": 11, "model": "Camry" },
+  { "id": 12, "model": "Carina" },
+
+  { "id": 13, "model": "Corolla" },
+  { "id": 14, "model": "Corolla Axio" },
+  { "id": 15, "model": "Corolla Cross" },
+  { "id": 16, "model": "Corolla Fielder" },
+  { "id": 17, "model": "Corolla iM" },
+  { "id": 18, "model": "Corolla Levin" },
+  { "id": 19, "model": "Corolla Verso" },
+
+  { "id": 20, "model": "Crown" },
+  { "id": 21, "model": "Crown Kluger" },
+
+  { "id": 22, "model": "Esquire" },
+  { "id": 23, "model": "FJ Cruiser" },
+  { "id": 24, "model": "Fortuner" },
+  { "id": 25, "model": "Frontlander" },
+
+  { "id": 26, "model": "Grand Highlander" },
+  { "id": 27, "model": "Harrier" },
+
+  { "id": 28, "model": "HiAce" },
+  { "id": 29, "model": "Highlander" },
+  { "id": 30, "model": "Hilux" },
+  { "id": 31, "model": "Hilux Surf" },
+
+  { "id": 32, "model": "Ipsum" },
+  { "id": 33, "model": "Ist" },
+
+  { "id": 34, "model": "Land Cruiser" },
+  { "id": 35, "model": "Land Cruiser Prado" },
+
+  { "id": 36, "model": "Mark II" },
+
+  { "id": 37, "model": "Passo" },
+  { "id": 38, "model": "Previa" },
+
+  { "id": 39, "model": "Prius" },
+  { "id": 40, "model": "Prius C" },
+  { "id": 41, "model": "Prius Prime" },
+  { "id": 42, "model": "Prius V" },
+
+  { "id": 43, "model": "Probox" },
+  { "id": 44, "model": "Raize" },
+  { "id": 45, "model": "RAV4" },
+  { "id": 46, "model": "Rush" },
+
+  { "id": 47, "model": "Sequoia" },
+  { "id": 48, "model": "Sienna" },
+  { "id": 49, "model": "Sienta" },
+  { "id": 50, "model": "Solara" },
+
+  { "id": 51, "model": "Supra" },
+
+  { "id": 52, "model": "Venza" },
+  { "id": 53, "model": "Verso-S" },
+
+  { "id": 54, "model": "Vitz" },
+
+  { "id": 55, "model": "Yaris" },
+  { "id": 56, "model": "Yaris Cross" },
+  { "id": 57, "model": "Yaris iA" }
+]
