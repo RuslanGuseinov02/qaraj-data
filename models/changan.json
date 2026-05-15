@@ -1,0 +1,60 @@
+[
+  { "id": 1, "model": "Benni" },
+
+  { "id": 2, "model": "CS15" },
+  { "id": 3, "model": "CS35" },
+  { "id": 4, "model": "CS55 Plus" },
+  { "id": 5, "model": "CS75" },
+  { "id": 6, "model": "CS75 Plus" },
+  { "id": 7, "model": "CS85" },
+  { "id": 8, "model": "CS95" },
+
+  { "id": 9, "model": "CX20" },
+
+  { "id": 10, "model": "Eado" },
+  { "id": 11, "model": "Eado DT" },
+
+  { "id": 12, "model": "Alsvin" },
+  { "id": 13, "model": "Alsvin V5" },
+  { "id": 14, "model": "Alsvin V7" },
+
+  { "id": 15, "model": "CM-8" },
+
+  { "id": 16, "model": "Deepal G318" },
+  { "id": 17, "model": "Deepal S05" },
+  { "id": 18, "model": "Deepal S07" },
+  { "id": 19, "model": "Deepal S09" },
+  { "id": 20, "model": "Deepal SL03" },
+
+  { "id": 21, "model": "Hunter F70" },
+  { "id": 22, "model": "K50 Hunter" },
+
+  { "id": 23, "model": "Lamore" },
+
+  { "id": 24, "model": "Nevo A05" },
+  { "id": 25, "model": "Nevo Q05" },
+
+  { "id": 26, "model": "Oshan X5 Plus" },
+  { "id": 27, "model": "Oshan Z6" },
+
+  { "id": 28, "model": "Qiyuan A05" },
+  { "id": 29, "model": "Qiyuan A06" },
+  { "id": 30, "model": "Qiyuan A06E" },
+  { "id": 31, "model": "Qiyuan A07" },
+  { "id": 32, "model": "Qiyuan Q05" },
+  { "id": 33, "model": "Qiyuan Q07" },
+
+  { "id": 34, "model": "Raeton" },
+  { "id": 35, "model": "SC6882" },
+
+  { "id": 36, "model": "Star" },
+
+  { "id": 37, "model": "Uni-K" },
+  { "id": 38, "model": "Uni-K iDD" },
+  { "id": 39, "model": "Uni-T" },
+  { "id": 40, "model": "Uni-V" },
+  { "id": 41, "model": "Uni-V iDD" },
+  { "id": 42, "model": "Uni-Z" },
+
+  { "id": 43, "model": "X7 Plus" }
+]
