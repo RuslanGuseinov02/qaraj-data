@@ -1,26 +1,116 @@
 [
-  { "id": 1, "model": "A1" },
-  { "id": 2, "model": "A3" },
-  { "id": 3, "model": "A4" },
-  { "id": 4, "model": "A5" },
-  { "id": 5, "model": "A6" },
-  { "id": 6, "model": "A7" },
-  { "id": 7, "model": "A8" },
-
-  { "id": 8, "model": "Q2" },
-  { "id": 9, "model": "Q3" },
-  { "id": 10, "model": "Q5" },
-  { "id": 11, "model": "Q7" },
-  { "id": 12, "model": "Q8" },
-
-  { "id": 13, "model": "e-tron" },
-
-  { "id": 14, "model": "80" },
-
-  { "id": 15, "model": "RS6" },
-  { "id": 16, "model": "RS7" },
-  { "id": 17, "model": "RS Q8" },
-
-  { "id": 18, "model": "S5" },
-  { "id": 19, "model": "S7" }
+  {
+    "id": 1,
+    "model": "A1",
+    "slug": "a1",
+    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/audi/image_a1.png"
+  },
+  {
+    "id": 2,
+    "model": "A3",
+    "slug": "a3",
+    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/audi/image_a3.png"
+  },
+  {
+    "id": 3,
+    "model": "A4",
+    "slug": "a4",
+    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/audi/image_a4.png"
+  },
+  {
+    "id": 4,
+    "model": "A5",
+    "slug": "a5",
+    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/audi/image_a5.png"
+  },
+  {
+    "id": 5,
+    "model": "A6",
+    "slug": "a6",
+    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/audi/image_a6.png"
+  },
+  {
+    "id": 6,
+    "model": "A7",
+    "slug": "a7",
+    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/audi/image_a7.png"
+  },
+  {
+    "id": 7,
+    "model": "A8",
+    "slug": "a8",
+    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/audi/image_a8.png"
+  },
+  {
+    "id": 8,
+    "model": "Q2",
+    "slug": "q2",
+    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/audi/image_q2.png"
+  },
+  {
+    "id": 9,
+    "model": "Q3",
+    "slug": "q3",
+    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/audi/image_q3.png"
+  },
+  {
+    "id": 10,
+    "model": "Q5",
+    "slug": "q5",
+    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/audi/image_q5.png"
+  },
+  {
+    "id": 11,
+    "model": "Q7",
+    "slug": "q7",
+    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/audi/image_q7.png"
+  },
+  {
+    "id": 12,
+    "model": "Q8",
+    "slug": "q8",
+    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/audi/image_q8.png"
+  },
+  {
+    "id": 13,
+    "model": "e-tron",
+    "slug": "e-tron",
+    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/audi/image_e_tron.png"
+  },
+  {
+    "id": 14,
+    "model": "80",
+    "slug": "80",
+    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/audi/image_80.png"
+  },
+  {
+    "id": 15,
+    "model": "RS6",
+    "slug": "rs6",
+    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/audi/image_rs6.png"
+  },
+  {
+    "id": 16,
+    "model": "RS7",
+    "slug": "rs7",
+    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/audi/image_rs7.png"
+  },
+  {
+    "id": 17,
+    "model": "RS Q8",
+    "slug": "rs-q8",
+    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/audi/image_rs_q8.png"
+  },
+  {
+    "id": 18,
+    "model": "S5",
+    "slug": "s5",
+    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/audi/image_s5.png"
+  },
+  {
+    "id": 19,
+    "model": "S7",
+    "slug": "s7",
+    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/audi/image_s7.png"
+  }
 ]
