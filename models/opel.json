@@ -21,9 +21,8 @@
   { "id": 14, "model": "Tigra" },
 
   { "id": 15, "model": "Vectra" },
-  { "id": 16, "model": "Vita" },
 
-  { "id": 17, "model": "Vivaro" },
+  { "id": 16, "model": "Vivaro" },
 
-  { "id": 18, "model": "Zafira" }
+  { "id": 17, "model": "Zafira" }
 ]
