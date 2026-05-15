@@ -1,0 +1,26 @@
+[
+  { "id": 1, "model": "2" },
+  { "id": 2, "model": "3" },
+  { "id": 3, "model": "323" },
+
+  { "id": 4, "model": "6" },
+  { "id": 5, "model": "626" },
+
+  { "id": 6, "model": "CX-30" },
+  { "id": 7, "model": "CX-5" },
+  { "id": 8, "model": "CX-7" },
+  { "id": 9, "model": "CX-9" },
+  { "id": 10, "model": "CX-60" },
+  { "id": 11, "model": "CX-90" },
+
+  { "id": 12, "model": "EZ-6" },
+  { "id": 13, "model": "EZ-60" },
+
+  { "id": 14, "model": "MPV" },
+
+  { "id": 15, "model": "MX-30" },
+
+  { "id": 16, "model": "RX-8" },
+
+  { "id": 17, "model": "Tribute" }
+]
