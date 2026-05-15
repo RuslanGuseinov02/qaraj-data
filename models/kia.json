@@ -1,0 +1,64 @@
+[
+  { "id": 1, "model": "Avella" },
+  { "id": 2, "model": "Bongo" },
+  { "id": 3, "model": "Cadenza" },
+  { "id": 4, "model": "Carens" },
+  { "id": 5, "model": "Carnival" },
+  { "id": 6, "model": "Ceed" },
+  { "id": 7, "model": "Ceed SW" },
+  { "id": 8, "model": "Cerato" },
+  { "id": 9, "model": "Clarus" },
+
+  { "id": 10, "model": "EV3" },
+  { "id": 11, "model": "EV5" },
+  { "id": 12, "model": "EV6" },
+  { "id": 13, "model": "EV9" },
+
+  { "id": 14, "model": "Forte" },
+
+  { "id": 15, "model": "K2500" },
+  { "id": 16, "model": "K2700" },
+
+  { "id": 17, "model": "K3" },
+  { "id": 18, "model": "K5" },
+  { "id": 19, "model": "K7" },
+  { "id": 20, "model": "K8" },
+
+  { "id": 21, "model": "KX1" },
+
+  { "id": 22, "model": "Lotze" },
+  { "id": 23, "model": "Magentis" },
+  { "id": 24, "model": "Mohave" },
+
+  { "id": 25, "model": "Morning" },
+  { "id": 26, "model": "Picanto" },
+  { "id": 27, "model": "Pride" },
+  { "id": 28, "model": "Pegas" },
+  { "id": 29, "model": "Pregio" },
+
+  { "id": 30, "model": "Niro" },
+
+  { "id": 31, "model": "Opirus" },
+  { "id": 32, "model": "Optima" },
+
+  { "id": 33, "model": "ProCeed" },
+
+  { "id": 34, "model": "Quoris" },
+
+  { "id": 35, "model": "Rio" },
+  { "id": 36, "model": "Rio X-Line" },
+
+  { "id": 37, "model": "Seltos" },
+  { "id": 38, "model": "Sephia" },
+  { "id": 39, "model": "Shuma" },
+  { "id": 40, "model": "Soluto" },
+  { "id": 41, "model": "Sonet" },
+  { "id": 42, "model": "Sorento" },
+  { "id": 43, "model": "Soul" },
+  { "id": 44, "model": "Spectra" },
+  { "id": 45, "model": "Sportage" },
+  { "id": 46, "model": "Stinger" },
+  { "id": 47, "model": "Stonic" },
+
+  { "id": 48, "model": "Topic" }
+]
