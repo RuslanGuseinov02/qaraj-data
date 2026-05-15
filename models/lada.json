@@ -1,0 +1,43 @@
+[
+  { "id": 1, "model": "Vesta" },
+  { "id": 2, "model": "XRAY" },
+
+  { "id": 3, "model": "2101" },
+  { "id": 4, "model": "21011" },
+  { "id": 5, "model": "21013" },
+  { "id": 6, "model": "2102" },
+  { "id": 7, "model": "2103" },
+  { "id": 8, "model": "2104" },
+  { "id": 9, "model": "21045" },
+  { "id": 10, "model": "2105" },
+  { "id": 11, "model": "2106" },
+  { "id": 12, "model": "2107" },
+
+  { "id": 13, "model": "2108" },
+  { "id": 14, "model": "2109" },
+  { "id": 15, "model": "21099" },
+
+  { "id": 16, "model": "2110" },
+  { "id": 17, "model": "2111" },
+  { "id": 18, "model": "2112" },
+  { "id": 19, "model": "2113" },
+  { "id": 20, "model": "2114" },
+  { "id": 21, "model": "2115" },
+
+  { "id": 22, "model": "2120" },
+
+  { "id": 23, "model": "Granta" },
+  { "id": 24, "model": "Granta Sport" },
+
+  { "id": 25, "model": "Kalina" },
+  { "id": 26, "model": "Largus" },
+
+  { "id": 27, "model": "Niva" },
+  { "id": 28, "model": "Niva Bronto" },
+  { "id": 29, "model": "Niva Pickup" },
+  { "id": 30, "model": "Niva Travel" },
+
+  { "id": 31, "model": "Oka" },
+
+  { "id": 32, "model": "Priora" }
+]
