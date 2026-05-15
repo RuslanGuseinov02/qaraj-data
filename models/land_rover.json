@@ -1,0 +1,13 @@
+[
+  { "id": 1, "model": "Defender" },
+
+  { "id": 2, "model": "Discovery" },
+  { "id": 3, "model": "Discovery Sport" },
+
+  { "id": 4, "model": "Freelander" },
+
+  { "id": 5, "model": "Range Rover" },
+  { "id": 6, "model": "Range Rover Evoque" },
+  { "id": 7, "model": "Range Rover Sport" },
+  { "id": 8, "model": "Range Rover Velar" }
+]
