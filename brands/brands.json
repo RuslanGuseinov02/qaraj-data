@@ -82,5 +82,11 @@
     "brand": "Mazda",
     "slug": "mazda",
     "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/logos/logo_mazda.png"
+  },
+  {
+    "id": 15,
+    "brand": "Lada",
+    "slug": "lada",
+    "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/logos/logo_lada.png"
   }
 ]
