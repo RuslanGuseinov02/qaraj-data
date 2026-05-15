@@ -1,0 +1,31 @@
+[
+  { "id": 1, "model": "Antara" },
+  { "id": 2, "model": "Astra" },
+  { "id": 3, "model": "Combo" },
+  { "id": 4, "model": "Corsa" },
+
+  { "id": 5, "model": "Crossland X" },
+  { "id": 6, "model": "Frontera" },
+
+  { "id": 7, "model": "Insignia" },
+  { "id": 8, "model": "Insignia OPC" },
+
+  { "id": 9, "model": "Meriva" },
+  { "id": 10, "model": "Mokka" },
+  { "id": 11, "model": "Mokka X" },
+
+  { "id": 12, "model": "Omega" },
+  { "id": 13, "model": "Rekord" },
+
+  { "id": 14, "model": "Signum" },
+  { "id": 15, "model": "Sintra" },
+
+  { "id": 16, "model": "Tigra" },
+
+  { "id": 17, "model": "Vectra" },
+  { "id": 18, "model": "Vita" },
+
+  { "id": 19, "model": "Vivaro" },
+
+  { "id": 20, "model": "Zafira" }
+]
