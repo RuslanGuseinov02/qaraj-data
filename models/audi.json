@@ -1,0 +1,26 @@
+[
+  { "id": 1, "model": "A1" },
+  { "id": 2, "model": "A3" },
+  { "id": 3, "model": "A4" },
+  { "id": 4, "model": "A5" },
+  { "id": 5, "model": "A6" },
+  { "id": 6, "model": "A7" },
+  { "id": 7, "model": "A8" },
+
+  { "id": 8, "model": "Q2" },
+  { "id": 9, "model": "Q3" },
+  { "id": 10, "model": "Q5" },
+  { "id": 11, "model": "Q7" },
+  { "id": 12, "model": "Q8" },
+
+  { "id": 13, "model": "e-tron" },
+
+  { "id": 14, "model": "80" },
+
+  { "id": 15, "model": "RS6" },
+  { "id": 16, "model": "RS7" },
+  { "id": 17, "model": "RS Q8" },
+
+  { "id": 18, "model": "S5" },
+  { "id": 19, "model": "S7" }
+]
