@@ -1,224 +1,185 @@
-[
-  {
-    "id": 1,
-    "model": "1 Series",
-    "slug": "1-series",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/bmw/image_1_series.png"
-  },
-  {
-    "id": 2,
-    "model": "2 Series",
-    "slug": "2-series",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/bmw/image_2_series.png"
-  },
-  {
-    "id": 3,
-    "model": "3 Series",
-    "slug": "3-series",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/bmw/image_3_series.png"
-  },
-  {
-    "id": 4,
-    "model": "4 Series",
-    "slug": "4-series",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/bmw/image_4_series.png"
-  },
-  {
-    "id": 5,
-    "model": "5 Series",
-    "slug": "5-series",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/bmw/image_5_series.png"
-  },
-  {
-    "id": 6,
-    "model": "6 Series",
-    "slug": "6-series",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/bmw/image_6_series.png"
-  },
-  {
-    "id": 7,
-    "model": "7 Series",
-    "slug": "7-series",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/bmw/image_7_series.png"
-  },
-  {
-    "id": 8,
-    "model": "8 Series",
-    "slug": "8-series",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/bmw/image_8_series.png"
-  },
-  {
-    "id": 9,
-    "model": "XM",
-    "slug": "xm",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/bmw/image_xm.png"
-  },
-
-  {
-    "id": 10,
-    "model": "i3",
-    "slug": "i3",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/bmw/image_i3.png"
-  },
-  {
-    "id": 11,
-    "model": "i4",
-    "slug": "i4",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/bmw/image_i4.png"
-  },
-  {
-    "id": 12,
-    "model": "i5",
-    "slug": "i5",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/bmw/image_i5.png"
-  },
-  {
-    "id": 13,
-    "model": "i7",
-    "slug": "i7",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/bmw/image_i7.png"
-  },
-  {
-    "id": 14,
-    "model": "i8",
-    "slug": "i8",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/bmw/image_i8.png"
-  },
-
-  {
-    "id": 15,
-    "model": "iX",
-    "slug": "ix",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/bmw/image_ix.png"
-  },
-  {
-    "id": 16,
-    "model": "iX1",
-    "slug": "ix1",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/bmw/image_ix1.png"
-  },
-  {
-    "id": 17,
-    "model": "iX3",
-    "slug": "ix3",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/bmw/image_ix_3.png"
-  },
-
-  {
-    "id": 18,
-    "model": "X1",
-    "slug": "x1",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/bmw/image_x1.png"
-  },
-  {
-    "id": 19,
-    "model": "X2",
-    "slug": "x2",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/bmw/image_x2.png"
-  },
-  {
-    "id": 20,
-    "model": "X3",
-    "slug": "x3",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/bmw/image_x3.png"
-  },
-  {
-    "id": 21,
-    "model": "X4",
-    "slug": "x4",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/bmw/image_x4.png"
-  },
-  {
-    "id": 22,
-    "model": "X5",
-    "slug": "x5",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/bmw/image_x5.png"
-  },
-  {
-    "id": 23,
-    "model": "X6",
-    "slug": "x6",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/bmw/image_x6.png"
-  },
-  {
-    "id": 24,
-    "model": "X7",
-    "slug": "x7",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/bmw/image_x7.png"
-  },
-
-  {
-    "id": 25,
-    "model": "Z3",
-    "slug": "z3",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/bmw/image_z3.png"
-  },
-  {
-    "id": 26,
-    "model": "Z4",
-    "slug": "z4",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/bmw/image_z4.png"
-  },
-
-  {
-    "id": 27,
-    "model": "M2",
-    "slug": "m2",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/bmw/image_m2.png"
-  },
-  {
-    "id": 28,
-    "model": "M3",
-    "slug": "m3",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/bmw/image_m3.png"
-  },
-  {
-    "id": 29,
-    "model": "M4",
-    "slug": "m4",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/bmw/image_m4.png"
-  },
-  {
-    "id": 30,
-    "model": "M5",
-    "slug": "m5",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/bmw/image_m5.png"
-  },
-  {
-    "id": 31,
-    "model": "M6",
-    "slug": "m6",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/bmw/image_m6.png"
-  },
-  {
-    "id": 32,
-    "model": "M8",
-    "slug": "m8",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/bmw/image_m8.png"
-  },
-
-  {
-    "id": 33,
-    "model": "X3 M",
-    "slug": "x3-m",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/bmw/image_x3_m.png"
-  },
-  {
-    "id": 34,
-    "model": "X4 M",
-    "slug": "x4-m",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/bmw/image_x4_m.png"
-  },
-  {
-    "id": 35,
-    "model": "X5 M",
-    "slug": "x5-m",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/bmw/image_x5_m.png"
-  },
-  {
-    "id": 36,
-    "model": "X6 M",
-    "slug": "x6-m",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/bmw/image_x6_m.png"
-  }
-]
+{
+  "models": [
+    {
+      "id": 1,
+      "model": "1 Series",
+      "slug": "1-series"
+    },
+    {
+      "id": 2,
+      "model": "2 Series",
+      "slug": "2-series"
+    },
+    {
+      "id": 3,
+      "model": "3 Series",
+      "slug": "3-series"
+    },
+    {
+      "id": 4,
+      "model": "4 Series",
+      "slug": "4-series"
+    },
+    {
+      "id": 5,
+      "model": "5 Series",
+      "slug": "5-series"
+    },
+    {
+      "id": 6,
+      "model": "6 Series",
+      "slug": "6-series"
+    },
+    {
+      "id": 7,
+      "model": "7 Series",
+      "slug": "7-series"
+    },
+    {
+      "id": 8,
+      "model": "8 Series",
+      "slug": "8-series"
+    },
+    {
+      "id": 9,
+      "model": "XM",
+      "slug": "xm"
+    },
+    {
+      "id": 10,
+      "model": "i3",
+      "slug": "i3"
+    },
+    {
+      "id": 11,
+      "model": "i4",
+      "slug": "i4"
+    },
+    {
+      "id": 12,
+      "model": "i5",
+      "slug": "i5"
+    },
+    {
+      "id": 13,
+      "model": "i7",
+      "slug": "i7"
+    },
+    {
+      "id": 14,
+      "model": "i8",
+      "slug": "i8"
+    },
+    {
+      "id": 15,
+      "model": "iX",
+      "slug": "ix"
+    },
+    {
+      "id": 16,
+      "model": "iX1",
+      "slug": "ix1"
+    },
+    {
+      "id": 17,
+      "model": "iX3",
+      "slug": "ix3"
+    },
+    {
+      "id": 18,
+      "model": "X1",
+      "slug": "x1"
+    },
+    {
+      "id": 19,
+      "model": "X2",
+      "slug": "x2"
+    },
+    {
+      "id": 20,
+      "model": "X3",
+      "slug": "x3"
+    },
+    {
+      "id": 21,
+      "model": "X4",
+      "slug": "x4"
+    },
+    {
+      "id": 22,
+      "model": "X5",
+      "slug": "x5"
+    },
+    {
+      "id": 23,
+      "model": "X6",
+      "slug": "x6"
+    },
+    {
+      "id": 24,
+      "model": "X7",
+      "slug": "x7"
+    },
+    {
+      "id": 25,
+      "model": "Z3",
+      "slug": "z3"
+    },
+    {
+      "id": 26,
+      "model": "Z4",
+      "slug": "z4"
+    },
+    {
+      "id": 27,
+      "model": "M2",
+      "slug": "m2"
+    },
+    {
+      "id": 28,
+      "model": "M3",
+      "slug": "m3"
+    },
+    {
+      "id": 29,
+      "model": "M4",
+      "slug": "m4"
+    },
+    {
+      "id": 30,
+      "model": "M5",
+      "slug": "m5"
+    },
+    {
+      "id": 31,
+      "model": "M6",
+      "slug": "m6"
+    },
+    {
+      "id": 32,
+      "model": "M8",
+      "slug": "m8"
+    },
+    {
+      "id": 33,
+      "model": "X3 M",
+      "slug": "x3-m"
+    },
+    {
+      "id": 34,
+      "model": "X4 M",
+      "slug": "x4-m"
+    },
+    {
+      "id": 35,
+      "model": "X5 M",
+      "slug": "x5-m"
+    },
+    {
+      "id": 36,
+      "model": "X6 M",
+      "slug": "x6-m"
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/default/default_bmw.png"
+}
