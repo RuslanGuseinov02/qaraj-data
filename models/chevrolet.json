@@ -1,42 +1,37 @@
-[
-  { "id": 1, "model": "Aveo" },
-  { "id": 2, "model": "Bolt" },
-  { "id": 3, "model": "Camaro" },
-  { "id": 4, "model": "Captiva" },
-  { "id": 5, "model": "Cobalt" },
-  { "id": 6, "model": "Corvette" },
-  { "id": 7, "model": "Cruze" },
-
-  { "id": 8, "model": "Damas" },
-  { "id": 9, "model": "Epica" },
-  { "id": 10, "model": "Equinox" },
-  { "id": 11, "model": "Equinox EV" },
-  { "id": 12, "model": "Evanda" },
-
-  { "id": 13, "model": "Kalos" },
-  { "id": 14, "model": "Labo" },
-  { "id": 15, "model": "Lacetti" },
-  { "id": 16, "model": "Lanos" },
-  { "id": 17, "model": "Lumina" },
-
-  { "id": 18, "model": "Malibu" },
-  { "id": 19, "model": "Monza" },
-
-  { "id": 20, "model": "Nexia" },
-  { "id": 21, "model": "Niva" },
-
-  { "id": 22, "model": "Onix" },
-  { "id": 23, "model": "Orlando" },
-
-  { "id": 24, "model": "Silverado" },
-  { "id": 25, "model": "Sonic" },
-  { "id": 26, "model": "Spark" },
-
-  { "id": 27, "model": "Tahoe" },
-  { "id": 28, "model": "Tracker" },
-  { "id": 29, "model": "TrailBlazer" },
-  { "id": 30, "model": "Traverse" },
-  { "id": 31, "model": "Trax" },
-
-  { "id": 32, "model": "Volt" }
-]
+{
+  "models": [
+    { "id": 1, "model": "Aveo" },
+    { "id": 2, "model": "Bolt" },
+    { "id": 3, "model": "Camaro" },
+    { "id": 4, "model": "Captiva" },
+    { "id": 5, "model": "Cobalt" },
+    { "id": 6, "model": "Corvette" },
+    { "id": 7, "model": "Cruze" },
+    { "id": 8, "model": "Damas" },
+    { "id": 9, "model": "Epica" },
+    { "id": 10, "model": "Equinox" },
+    { "id": 11, "model": "Equinox EV" },
+    { "id": 12, "model": "Evanda" },
+    { "id": 13, "model": "Kalos" },
+    { "id": 14, "model": "Labo" },
+    { "id": 15, "model": "Lacetti" },
+    { "id": 16, "model": "Lanos" },
+    { "id": 17, "model": "Lumina" },
+    { "id": 18, "model": "Malibu" },
+    { "id": 19, "model": "Monza" },
+    { "id": 20, "model": "Nexia" },
+    { "id": 21, "model": "Niva" },
+    { "id": 22, "model": "Onix" },
+    { "id": 23, "model": "Orlando" },
+    { "id": 24, "model": "Silverado" },
+    { "id": 25, "model": "Sonic" },
+    { "id": 26, "model": "Spark" },
+    { "id": 27, "model": "Tahoe" },
+    { "id": 28, "model": "Tracker" },
+    { "id": 29, "model": "TrailBlazer" },
+    { "id": 30, "model": "Traverse" },
+    { "id": 31, "model": "Trax" },
+    { "id": 32, "model": "Volt" }
+  ],
+  "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/default/default_chevrolet.png"
+}
