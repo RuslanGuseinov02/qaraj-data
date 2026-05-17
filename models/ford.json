@@ -1,45 +1,39 @@
-[
-  { "id": 1, "model": "B-MAX" },
-  { "id": 2, "model": "Bronco" },
-  { "id": 3, "model": "Bronco Sport" },
-
-  { "id": 4, "model": "C-MAX" },
-  { "id": 5, "model": "Capri" },
-  { "id": 6, "model": "Cargo" },
-  { "id": 7, "model": "Courier" },
-
-  { "id": 8, "model": "EcoSport" },
-  { "id": 9, "model": "Edge" },
-  { "id": 10, "model": "Escape" },
-  { "id": 11, "model": "Escort" },
-  { "id": 12, "model": "Expedition" },
-  { "id": 13, "model": "Explorer" },
-
-  { "id": 14, "model": "F-150" },
-
-  { "id": 15, "model": "Fiesta" },
-  { "id": 16, "model": "Flex" },
-  { "id": 17, "model": "Focus" },
-  { "id": 18, "model": "Fusion" },
-
-  { "id": 19, "model": "Galaxie" },
-  { "id": 20, "model": "Galaxy" },
-  { "id": 21, "model": "Granada" },
-
-  { "id": 22, "model": "Kuga" },
-  { "id": 23, "model": "Maverick" },
-  { "id": 24, "model": "Mondeo" },
-  { "id": 25, "model": "Mustang" },
-  { "id": 26, "model": "Mustang Mach-E" },
-
-  { "id": 27, "model": "Ranger" },
-
-  { "id": 28, "model": "Tourneo" },
-  { "id": 29, "model": "Tourneo Connect" },
-  { "id": 30, "model": "Tourneo Custom" },
-
-  { "id": 31, "model": "Transit" },
-  { "id": 32, "model": "Transit Connect" },
-  { "id": 33, "model": "Transit Courier" },
-  { "id": 34, "model": "Transit Custom" }
-]
+{
+  "models": [
+    { "id": 1, "model": "B-MAX" },
+    { "id": 2, "model": "Bronco" },
+    { "id": 3, "model": "Bronco Sport" },
+    { "id": 4, "model": "C-MAX" },
+    { "id": 5, "model": "Capri" },
+    { "id": 6, "model": "Cargo" },
+    { "id": 7, "model": "Courier" },
+    { "id": 8, "model": "EcoSport" },
+    { "id": 9, "model": "Edge" },
+    { "id": 10, "model": "Escape" },
+    { "id": 11, "model": "Escort" },
+    { "id": 12, "model": "Expedition" },
+    { "id": 13, "model": "Explorer" },
+    { "id": 14, "model": "F-150" },
+    { "id": 15, "model": "Fiesta" },
+    { "id": 16, "model": "Flex" },
+    { "id": 17, "model": "Focus" },
+    { "id": 18, "model": "Fusion" },
+    { "id": 19, "model": "Galaxie" },
+    { "id": 20, "model": "Galaxy" },
+    { "id": 21, "model": "Granada" },
+    { "id": 22, "model": "Kuga" },
+    { "id": 23, "model": "Maverick" },
+    { "id": 24, "model": "Mondeo" },
+    { "id": 25, "model": "Mustang" },
+    { "id": 26, "model": "Mustang Mach-E" },
+    { "id": 27, "model": "Ranger" },
+    { "id": 28, "model": "Tourneo" },
+    { "id": 29, "model": "Tourneo Connect" },
+    { "id": 30, "model": "Tourneo Custom" },
+    { "id": 31, "model": "Transit" },
+    { "id": 32, "model": "Transit Connect" },
+    { "id": 33, "model": "Transit Courier" },
+    { "id": 34, "model": "Transit Custom" }
+  ],
+  "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/default/default_ford.png"
+}
