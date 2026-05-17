@@ -1,104 +1,22 @@
-[
-  {
-    "id": 1,
-    "model": "Antara",
-    "slug": "antara",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/opel/image_antara.png"
-  },
-  {
-    "id": 2,
-    "model": "Astra",
-    "slug": "astra",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/opel/image_astra.png"
-  },
-  {
-    "id": 3,
-    "model": "Combo",
-    "slug": "combo",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/opel/image_combo.png"
-  },
-  {
-    "id": 4,
-    "model": "Corsa",
-    "slug": "corsa",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/opel/image_corsa.png"
-  },
-  {
-    "id": 5,
-    "model": "Crossland X",
-    "slug": "crossland_x",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/opel/image_crossland_x.png"
-  },
-  {
-    "id": 6,
-    "model": "Frontera",
-    "slug": "frontera",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/opel/image_frontera.png"
-  },
-  {
-    "id": 7,
-    "model": "Insignia",
-    "slug": "insignia",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/opel/image_insignia.png"
-  },
-  {
-    "id": 8,
-    "model": "Insignia OPC",
-    "slug": "insignia_opc",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/opel/image_insignia_opc.png"
-  },
-  {
-    "id": 9,
-    "model": "Meriva",
-    "slug": "meriva",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/opel/image_meriva.png"
-  },
-  {
-    "id": 10,
-    "model": "Mokka",
-    "slug": "mokka",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/opel/image_mokka.png"
-  },
-  {
-    "id": 11,
-    "model": "Mokka X",
-    "slug": "mokka_x",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/opel/image_mokka_x.png"
-  },
-  {
-    "id": 12,
-    "model": "Omega",
-    "slug": "omega",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/opel/image_omega.png"
-  },
-  {
-    "id": 13,
-    "model": "Sintra",
-    "slug": "sintra",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/opel/image_sintra.png"
-  },
-  {
-    "id": 14,
-    "model": "Tigra",
-    "slug": "tigra",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/opel/image_tigra.png"
-  },
-  {
-    "id": 15,
-    "model": "Vectra",
-    "slug": "vectra",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/opel/image_vectra.png"
-  },
-  {
-    "id": 16,
-    "model": "Vivaro",
-    "slug": "vivaro",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/opel/image_vivaro.png"
-  },
-  {
-    "id": 17,
-    "model": "Zafira",
-    "slug": "zafira",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/opel/image_zafira.png"
-  }
-]
+{
+  "models": [
+    { "id": 1, "model": "Antara", "slug": "antara" },
+    { "id": 2, "model": "Astra", "slug": "astra" },
+    { "id": 3, "model": "Combo", "slug": "combo" },
+    { "id": 4, "model": "Corsa", "slug": "corsa" },
+    { "id": 5, "model": "Crossland X", "slug": "crossland_x" },
+    { "id": 6, "model": "Frontera", "slug": "frontera" },
+    { "id": 7, "model": "Insignia", "slug": "insignia" },
+    { "id": 8, "model": "Insignia OPC", "slug": "insignia_opc" },
+    { "id": 9, "model": "Meriva", "slug": "meriva" },
+    { "id": 10, "model": "Mokka", "slug": "mokka" },
+    { "id": 11, "model": "Mokka X", "slug": "mokka_x" },
+    { "id": 12, "model": "Omega", "slug": "omega" },
+    { "id": 13, "model": "Sintra", "slug": "sintra" },
+    { "id": 14, "model": "Tigra", "slug": "tigra" },
+    { "id": 15, "model": "Vectra", "slug": "vectra" },
+    { "id": 16, "model": "Vivaro", "slug": "vivaro" },
+    { "id": 17, "model": "Zafira", "slug": "zafira" }
+  ],
+  "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/default/default_opel.png"
+}
