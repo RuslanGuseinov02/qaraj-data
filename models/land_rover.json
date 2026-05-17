@@ -1,50 +1,45 @@
-[
-  {
-    "id": 1,
-    "model": "Defender",
-    "slug": "defender",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/land-rover/image_defender.png"
-  },
-  {
-    "id": 2,
-    "model": "Discovery",
-    "slug": "discovery",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/land-rover/image_discovery.png"
-  },
-  {
-    "id": 3,
-    "model": "Discovery Sport",
-    "slug": "discovery-sport",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/land-rover/image_discovery_sport.png"
-  },
-  {
-    "id": 4,
-    "model": "Freelander",
-    "slug": "freelander",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/land-rover/image_freelander.png"
-  },
-  {
-    "id": 5,
-    "model": "Range Rover",
-    "slug": "range-rover",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/land-rover/image_range_rover.png"
-  },
-  {
-    "id": 6,
-    "model": "Range Rover Evoque",
-    "slug": "range-rover-evoque",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/land-rover/image_range_rover_evoque.png"
-  },
-  {
-    "id": 7,
-    "model": "Range Rover Sport",
-    "slug": "range-rover-sport",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/land-rover/image_range_rover_sport.png"
-  },
-  {
-    "id": 8,
-    "model": "Range Rover Velar",
-    "slug": "range-rover-velar",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/land-rover/image_range_rover_velar.png"
-  }
-]
+{
+  "models": [
+    {
+      "id": 1,
+      "model": "Defender",
+      "slug": "defender"
+    },
+    {
+      "id": 2,
+      "model": "Discovery",
+      "slug": "discovery"
+    },
+    {
+      "id": 3,
+      "model": "Discovery Sport",
+      "slug": "discovery-sport"
+    },
+    {
+      "id": 4,
+      "model": "Freelander",
+      "slug": "freelander"
+    },
+    {
+      "id": 5,
+      "model": "Range Rover",
+      "slug": "range-rover"
+    },
+    {
+      "id": 6,
+      "model": "Range Rover Evoque",
+      "slug": "range-rover-evoque"
+    },
+    {
+      "id": 7,
+      "model": "Range Rover Sport",
+      "slug": "range-rover-sport"
+    },
+    {
+      "id": 8,
+      "model": "Range Rover Velar",
+      "slug": "range-rover-velar"
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/default/default_land_rover.png"
+}
