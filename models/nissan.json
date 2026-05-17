@@ -1,54 +1,41 @@
-[
-  { "id": 1, "model": "Almera" },
-  { "id": 2, "model": "Altima" },
-  { "id": 3, "model": "Ariya" },
-  { "id": 4, "model": "Armada" },
-
-  { "id": 5, "model": "Cedric" },
-
-  { "id": 6, "model": "Juke" },
-  { "id": 7, "model": "Juke Nismo" },
-  { "id": 8, "model": "Kicks" },
-
-  { "id": 9, "model": "Latio" },
-  { "id": 10, "model": "Leaf" },
-  { "id": 11, "model": "Magnite" },
-  { "id": 12, "model": "March" },
-  { "id": 13, "model": "Maxima" },
-  { "id": 14, "model": "Micra" },
-
-  { "id": 15, "model": "Murano" },
-
-  { "id": 16, "model": "Navara" },
-  { "id": 17, "model": "Note" },
-
-  { "id": 18, "model": "Paladin" },
-  { "id": 19, "model": "Pathfinder" },
-  { "id": 20, "model": "Patrol" },
-
-  { "id": 21, "model": "Primera" },
-
-  { "id": 22, "model": "Qashqai" },
-  { "id": 23, "model": "Qashqai+2" },
-
-  { "id": 24, "model": "Rogue" },
-
-  { "id": 25, "model": "Sentra" },
-  { "id": 26, "model": "Sunny" },
-
-  { "id": 27, "model": "Teana" },
-  { "id": 28, "model": "Terrano" },
-  { "id": 29, "model": "Terrano II" },
-
-  { "id": 30, "model": "Tiida" },
-
-  { "id": 31, "model": "Urvan" },
-
-  { "id": 32, "model": "Versa" },
-  { "id": 33, "model": "Versa Note" },
-
-  { "id": 34, "model": "Wingroad" },
-
-  { "id": 35, "model": "X-Trail" },
-  { "id": 36, "model": "Xterra" }
-]
+{
+  "models": [
+    { "id": 1, "model": "Almera" },
+    { "id": 2, "model": "Altima" },
+    { "id": 3, "model": "Ariya" },
+    { "id": 4, "model": "Armada" },
+    { "id": 5, "model": "Cedric" },
+    { "id": 6, "model": "Juke" },
+    { "id": 7, "model": "Juke Nismo" },
+    { "id": 8, "model": "Kicks" },
+    { "id": 9, "model": "Latio" },
+    { "id": 10, "model": "Leaf" },
+    { "id": 11, "model": "Magnite" },
+    { "id": 12, "model": "March" },
+    { "id": 13, "model": "Maxima" },
+    { "id": 14, "model": "Micra" },
+    { "id": 15, "model": "Murano" },
+    { "id": 16, "model": "Navara" },
+    { "id": 17, "model": "Note" },
+    { "id": 18, "model": "Paladin" },
+    { "id": 19, "model": "Pathfinder" },
+    { "id": 20, "model": "Patrol" },
+    { "id": 21, "model": "Primera" },
+    { "id": 22, "model": "Qashqai" },
+    { "id": 23, "model": "Qashqai+2" },
+    { "id": 24, "model": "Rogue" },
+    { "id": 25, "model": "Sentra" },
+    { "id": 26, "model": "Sunny" },
+    { "id": 27, "model": "Teana" },
+    { "id": 28, "model": "Terrano" },
+    { "id": 29, "model": "Terrano II" },
+    { "id": 30, "model": "Tiida" },
+    { "id": 31, "model": "Urvan" },
+    { "id": 32, "model": "Versa" },
+    { "id": 33, "model": "Versa Note" },
+    { "id": 34, "model": "Wingroad" },
+    { "id": 35, "model": "X-Trail" },
+    { "id": 36, "model": "Xterra" }
+  ],
+  "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/default/default_nissan.png"
+}
