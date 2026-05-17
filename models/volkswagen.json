@@ -1,52 +1,41 @@
-[
-  { "id": 1, "model": "Amarok" },
-  { "id": 2, "model": "Atlas" },
-  { "id": 3, "model": "Beetle" },
-  { "id": 4, "model": "Bora" },
-
-  { "id": 5, "model": "Caddy" },
-  { "id": 6, "model": "Caravelle" },
-  { "id": 7, "model": "Crafter" },
-
-  { "id": 8, "model": "Golf" },
-  { "id": 9, "model": "Golf GTI" },
-  { "id": 10, "model": "Golf Plus" },
-
-  { "id": 11, "model": "ID.4" },
-  { "id": 12, "model": "ID.4 Crozz" },
-  { "id": 13, "model": "ID.4 X" },
-
-  { "id": 14, "model": "ID.6" },
-  { "id": 15, "model": "ID.6 Crozz" },
-  { "id": 16, "model": "ID.6 X" },
-
-  { "id": 17, "model": "ID.7" },
-
-  { "id": 18, "model": "Jetta" },
-  { "id": 19, "model": "Lavida" },
-  { "id": 20, "model": "Magotan" },
-
-  { "id": 21, "model": "Multivan" },
-  { "id": 22, "model": "Parati" },
-
-  { "id": 23, "model": "Passat" },
-  { "id": 24, "model": "Passat CC" },
-
-  { "id": 25, "model": "Phaeton" },
-  { "id": 26, "model": "Polo" },
-  { "id": 27, "model": "Scirocco" },
-
-  { "id": 28, "model": "Sharan" },
-  { "id": 29, "model": "Taos" },
-  { "id": 30, "model": "Tayron" },
-  { "id": 31, "model": "Teramont" },
-
-  { "id": 32, "model": "Tiguan" },
-
-  { "id": 33, "model": "Touareg" },
-  { "id": 34, "model": "Touran" },
-
-  { "id": 35, "model": "Transporter" },
-
-  { "id": 36, "model": "Vento" }
-]
+{
+  "models": [
+    { "id": 1, "model": "Amarok" },
+    { "id": 2, "model": "Atlas" },
+    { "id": 3, "model": "Beetle" },
+    { "id": 4, "model": "Bora" },
+    { "id": 5, "model": "Caddy" },
+    { "id": 6, "model": "Caravelle" },
+    { "id": 7, "model": "Crafter" },
+    { "id": 8, "model": "Golf" },
+    { "id": 9, "model": "Golf GTI" },
+    { "id": 10, "model": "Golf Plus" },
+    { "id": 11, "model": "ID.4" },
+    { "id": 12, "model": "ID.4 Crozz" },
+    { "id": 13, "model": "ID.4 X" },
+    { "id": 14, "model": "ID.6" },
+    { "id": 15, "model": "ID.6 Crozz" },
+    { "id": 16, "model": "ID.6 X" },
+    { "id": 17, "model": "ID.7" },
+    { "id": 18, "model": "Jetta" },
+    { "id": 19, "model": "Lavida" },
+    { "id": 20, "model": "Magotan" },
+    { "id": 21, "model": "Multivan" },
+    { "id": 22, "model": "Parati" },
+    { "id": 23, "model": "Passat" },
+    { "id": 24, "model": "Passat CC" },
+    { "id": 25, "model": "Phaeton" },
+    { "id": 26, "model": "Polo" },
+    { "id": 27, "model": "Scirocco" },
+    { "id": 28, "model": "Sharan" },
+    { "id": 29, "model": "Taos" },
+    { "id": 30, "model": "Tayron" },
+    { "id": 31, "model": "Teramont" },
+    { "id": 32, "model": "Tiguan" },
+    { "id": 33, "model": "Touareg" },
+    { "id": 34, "model": "Touran" },
+    { "id": 35, "model": "Transporter" },
+    { "id": 36, "model": "Vento" }
+  ],
+  "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/default/default_volkswagen.png"
+}
