@@ -3,105 +3,90 @@
     "id": 1,
     "brand": "BMW",
     "slug": "bmw",
-    "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/logos/logo_bmw.png",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/default/default_bmw.png"
+    "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/logos/logo_bmw.png"
   },
   {
     "id": 2,
     "brand": "Mercedes",
     "slug": "mercedes",
-    "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/logos/logo_mercedes.png",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/default/default_mercedes.png"
+    "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/logos/logo_mercedes.png"
   },
   {
     "id": 3,
     "brand": "Changan",
     "slug": "changan",
-    "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/logos/logo_changan.png",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/default/default_changan.png"
+    "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/logos/logo_changan.png"
   },
   {
     "id": 4,
     "brand": "Kia",
     "slug": "kia",
-    "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/logos/logo_kia.png",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/default/default_kia.png"
+    "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/logos/logo_kia.png"
   },
   {
     "id": 5,
     "brand": "Hyundai",
     "slug": "hyundai",
-    "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/logos/logo_hyundai.png",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/default/default_hyundai.png"
+    "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/logos/logo_hyundai.png"
   },
   {
     "id": 6,
     "brand": "Land Rover",
     "slug": "land_rover",
-    "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/logos/logo_land_rover.png",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/default/default_land_rover.png"
+    "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/logos/logo_land_rover.png"
   },
   {
     "id": 7,
     "brand": "Chevrolet",
     "slug": "chevrolet",
-    "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/logos/logo_chevrolet.png",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/default/default_chevrolet.png"
+    "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/logos/logo_chevrolet.png"
   },
   {
     "id": 8,
     "brand": "Audi",
     "slug": "audi",
-    "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/logos/logo_audi.png",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/default/default_audi.png"
+    "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/logos/logo_audi.png"
   },
   {
     "id": 9,
     "brand": "Volkswagen",
     "slug": "volkswagen",
-    "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/logos/logo_volkswagen.png",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/default/default_volkswagen.png"
+    "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/logos/logo_volkswagen.png"
   },
   {
     "id": 10,
     "brand": "Opel",
     "slug": "opel",
-    "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/logos/logo_opel.png",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/default/default_opel.png"
+    "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/logos/logo_opel.png"
   },
   {
     "id": 11,
     "brand": "Toyota",
     "slug": "toyota",
-    "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/logos/logo_toyota.png",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/default/default_toyota.png"
+    "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/logos/logo_toyota.png"
   },
   {
     "id": 12,
     "brand": "Nissan",
     "slug": "nissan",
-    "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/logos/logo_nissan.png",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/default/default_nissan.png"
+    "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/logos/logo_nissan.png"
   },
   {
     "id": 13,
     "brand": "Ford",
     "slug": "ford",
-    "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/logos/logo_ford.png",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/default/default_ford.png"
+    "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/logos/logo_ford.png"
   },
   {
     "id": 14,
     "brand": "Mazda",
     "slug": "mazda",
-    "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/logos/logo_mazda.png",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/default/default_mazda.png"
+    "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/logos/logo_mazda.png"
   },
   {
     "id": 15,
     "brand": "Lada",
     "slug": "lada",
-    "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/logos/logo_lada.png",
-    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/default/default_lada.png"
+    "logo": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/logos/logo_lada.png"
   }
 ]
