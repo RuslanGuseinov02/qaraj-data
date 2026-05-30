@@ -92,12 +92,6 @@
     },
     {
       "id": 16,
-      "model": "Vivaro",
-      "slug": "vivaro",
-      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/opel/image_vivaro.png"
-    },
-    {
-      "id": 17,
       "model": "Zafira",
       "slug": "zafira",
       "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/opel/image_zafira.png"
