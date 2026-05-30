@@ -13,22 +13,10 @@
       "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/mazda/image_3.png"
     },
     {
-      "id": 3,
-      "model": "323",
-      "slug": "323",
-      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/mazda/image_323.png"
-    },
-    {
       "id": 4,
       "model": "6",
       "slug": "6",
       "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/mazda/image_6.png"
-    },
-    {
-      "id": 5,
-      "model": "626",
-      "slug": "626",
-      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/mazda/image_626.png"
     },
     {
       "id": 6,
