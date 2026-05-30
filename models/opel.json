@@ -68,30 +68,24 @@
     },
     {
       "id": 12,
-      "model": "Omega",
-      "slug": "omega",
-      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/opel/image_omega.png"
-    },
-    {
-      "id": 13,
       "model": "Sintra",
       "slug": "sintra",
       "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/opel/image_sintra.png"
     },
     {
-      "id": 14,
+      "id": 13,
       "model": "Tigra",
       "slug": "tigra",
       "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/opel/image_tigra.png"
     },
     {
-      "id": 15,
+      "id": 14,
       "model": "Vectra",
       "slug": "vectra",
       "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/opel/image_vectra.png"
     },
     {
-      "id": 16,
+      "id": 15,
       "model": "Zafira",
       "slug": "zafira",
       "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/opel/image_zafira.png"
