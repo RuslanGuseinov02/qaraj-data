@@ -50,90 +50,84 @@
     },
     {
       "id": 9,
-      "model": "Equinox EV",
-      "slug": "equinox_ev",
-      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/chevrolet/image_equinox_ev.png"
-    },
-    {
-      "id": 10,
       "model": "Lacetti",
       "slug": "lacetti",
       "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/chevrolet/image_lacetti.png"
     },
     {
-      "id": 11,
+      "id": 10,
       "model": "Malibu",
       "slug": "malibu",
       "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/chevrolet/image_malibu.png"
     },
     {
-      "id": 12,
+      "id": 11,
       "model": "Niva",
       "slug": "niva",
       "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/chevrolet/image_niva.png"
     },
     {
-      "id": 13,
+      "id": 12,
       "model": "Onix",
       "slug": "onix",
       "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/chevrolet/image_onix.png"
     },
     {
-      "id": 14,
+      "id": 13,
       "model": "Orlando",
       "slug": "orlando",
       "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/chevrolet/image_orlando.png"
     },
     {
-      "id": 15,
+      "id": 14,
       "model": "Silverado",
       "slug": "silverado",
       "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/chevrolet/image_silverado.png"
     },
     {
-      "id": 16,
+      "id": 15,
       "model": "Sonic",
       "slug": "sonic",
       "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/chevrolet/image_sonic.png"
     },
     {
-      "id": 17,
+      "id": 16,
       "model": "Spark",
       "slug": "spark",
       "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/chevrolet/image_spark.png"
     },
     {
-      "id": 18,
+      "id": 17,
       "model": "Tahoe",
       "slug": "tahoe",
       "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/chevrolet/image_tahoe.png"
     },
     {
-      "id": 19,
+      "id": 18,
       "model": "Tracker",
       "slug": "tracker",
       "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/chevrolet/image_tracker.png"
     },
     {
-      "id": 20,
+      "id": 19,
       "model": "TrailBlazer",
       "slug": "trail_blazer",
       "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/chevrolet/image_trail_blazer.png"
     },
     {
-      "id": 21,
+      "id": 20,
       "model": "Traverse",
       "slug": "traverse",
       "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/chevrolet/image_traverse.png"
     },
     {
-      "id": 22,
+      "id": 21,
       "model": "Trax",
       "slug": "trax",
       "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/chevrolet/image_trax.png"
     },
     {
-      "id": 23,
+      "id": 22,
       "model": "Volt",
       "slug": "volt",
       "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/chevrolet/image_volt.png"
