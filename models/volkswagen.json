@@ -1,41 +1,118 @@
 {
   "models": [
-    { "id": 1, "model": "Amarok" },
-    { "id": 2, "model": "Atlas" },
-    { "id": 3, "model": "Beetle" },
-    { "id": 4, "model": "Bora" },
-    { "id": 5, "model": "Caddy" },
-    { "id": 6, "model": "Caravelle" },
-    { "id": 7, "model": "Crafter" },
-    { "id": 8, "model": "Golf" },
-    { "id": 9, "model": "Golf GTI" },
-    { "id": 10, "model": "Golf Plus" },
-    { "id": 11, "model": "ID.4" },
-    { "id": 12, "model": "ID.4 Crozz" },
-    { "id": 13, "model": "ID.4 X" },
-    { "id": 14, "model": "ID.6" },
-    { "id": 15, "model": "ID.6 Crozz" },
-    { "id": 16, "model": "ID.6 X" },
-    { "id": 17, "model": "ID.7" },
-    { "id": 18, "model": "Jetta" },
-    { "id": 19, "model": "Lavida" },
-    { "id": 20, "model": "Magotan" },
-    { "id": 21, "model": "Multivan" },
-    { "id": 22, "model": "Parati" },
-    { "id": 23, "model": "Passat" },
-    { "id": 24, "model": "Passat CC" },
-    { "id": 25, "model": "Phaeton" },
-    { "id": 26, "model": "Polo" },
-    { "id": 27, "model": "Scirocco" },
-    { "id": 28, "model": "Sharan" },
-    { "id": 29, "model": "Taos" },
-    { "id": 30, "model": "Tayron" },
-    { "id": 31, "model": "Teramont" },
-    { "id": 32, "model": "Tiguan" },
-    { "id": 33, "model": "Touareg" },
-    { "id": 34, "model": "Touran" },
-    { "id": 35, "model": "Transporter" },
-    { "id": 36, "model": "Vento" }
-  ],
-  "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/default/default_volkswagen.png"
+    {
+      "id": 1,
+      "model": "Amarok",
+      "slug": "amarok",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/volkswagen/image_amarok.png"
+    },
+    {
+      "id": 2,
+      "model": "Atlas",
+      "slug": "atlas",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/volkswagen/image_atlas.png"
+    },
+    {
+      "id": 3,
+      "model": "Beetle",
+      "slug": "beetle",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/volkswagen/image_beetle.png"
+    },
+    {
+      "id": 4,
+      "model": "Caddy",
+      "slug": "caddy",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/volkswagen/image_caddy.png"
+    },
+    {
+      "id": 5,
+      "model": "Caravelle",
+      "slug": "caravelle",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/volkswagen/image_caravelle.png"
+    },
+    {
+      "id": 6,
+      "model": "Crafter",
+      "slug": "crafter",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/volkswagen/image_crafter.png"
+    },
+    {
+      "id": 7,
+      "model": "Golf",
+      "slug": "golf",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/volkswagen/image_golf.png"
+    },
+    {
+      "id": 8,
+      "model": "Golf GTI",
+      "slug": "golf_gti",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/volkswagen/image_golf_gti.png"
+    },
+    {
+      "id": 9,
+      "model": "Jetta",
+      "slug": "jetta",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/volkswagen/image_jetta.png"
+    },
+    {
+      "id": 10,
+      "model": "Passat",
+      "slug": "passat",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/volkswagen/image_passat.png"
+    },
+    {
+      "id": 11,
+      "model": "Passat CC",
+      "slug": "passat_cc",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/volkswagen/image_passat_cc.png"
+    },
+    {
+      "id": 12,
+      "model": "Phaeton",
+      "slug": "phaeton",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/volkswagen/image_phaeton.png"
+    },
+    {
+      "id": 13,
+      "model": "Polo",
+      "slug": "polo",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/volkswagen/image_polo.png"
+    },
+    {
+      "id": 14,
+      "model": "Scirocco",
+      "slug": "scirocco",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/volkswagen/image_scirocco.png"
+    },
+    {
+      "id": 15,
+      "model": "Sharan",
+      "slug": "sharan",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/volkswagen/image_sharan.png"
+    },
+    {
+      "id": 16,
+      "model": "Tiguan",
+      "slug": "tiguan",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/volkswagen/image_tiguan.png"
+    },
+    {
+      "id": 17,
+      "model": "Touareg",
+      "slug": "touareg",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/volkswagen/image_touareg.png"
+    },
+    {
+      "id": 18,
+      "model": "Touran",
+      "slug": "touran",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/volkswagen/image_touran.png"
+    },
+    {
+      "id": 19,
+      "model": "Transporter",
+      "slug": "transporter",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/volkswagen/image_transporter.png"
+    }
+  ]
 }
