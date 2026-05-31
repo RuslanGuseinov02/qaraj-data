@@ -1,53 +1,172 @@
 {
   "models": [
-    { "id": 1, "model": "Avella" },
-    { "id": 2, "model": "Bongo" },
-    { "id": 3, "model": "Cadenza" },
-    { "id": 4, "model": "Carens" },
-    { "id": 5, "model": "Carnival" },
-    { "id": 6, "model": "Ceed" },
-    { "id": 7, "model": "Ceed SW" },
-    { "id": 8, "model": "Cerato" },
-    { "id": 9, "model": "Clarus" },
-    { "id": 10, "model": "EV3" },
-    { "id": 11, "model": "EV5" },
-    { "id": 12, "model": "EV6" },
-    { "id": 13, "model": "EV9" },
-    { "id": 14, "model": "Forte" },
-    { "id": 15, "model": "K2500" },
-    { "id": 16, "model": "K2700" },
-    { "id": 17, "model": "K3" },
-    { "id": 18, "model": "K5" },
-    { "id": 19, "model": "K7" },
-    { "id": 20, "model": "K8" },
-    { "id": 21, "model": "KX1" },
-    { "id": 22, "model": "Lotze" },
-    { "id": 23, "model": "Magentis" },
-    { "id": 24, "model": "Mohave" },
-    { "id": 25, "model": "Morning" },
-    { "id": 26, "model": "Picanto" },
-    { "id": 27, "model": "Pride" },
-    { "id": 28, "model": "Pegas" },
-    { "id": 29, "model": "Pregio" },
-    { "id": 30, "model": "Niro" },
-    { "id": 31, "model": "Opirus" },
-    { "id": 32, "model": "Optima" },
-    { "id": 33, "model": "ProCeed" },
-    { "id": 34, "model": "Quoris" },
-    { "id": 35, "model": "Rio" },
-    { "id": 36, "model": "Rio X-Line" },
-    { "id": 37, "model": "Seltos" },
-    { "id": 38, "model": "Sephia" },
-    { "id": 39, "model": "Shuma" },
-    { "id": 40, "model": "Soluto" },
-    { "id": 41, "model": "Sonet" },
-    { "id": 42, "model": "Sorento" },
-    { "id": 43, "model": "Soul" },
-    { "id": 44, "model": "Spectra" },
-    { "id": 45, "model": "Sportage" },
-    { "id": 46, "model": "Stinger" },
-    { "id": 47, "model": "Stonic" },
-    { "id": 48, "model": "Topic" }
-  ],
-  "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/default/default_kia.png"
+    {
+      "id": 1,
+      "model": "Bongo",
+      "slug": "bongo",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/kia/image_bongo.png"
+    },
+    {
+      "id": 2,
+      "model": "Cadenza",
+      "slug": "cadenza",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/kia/image_cadenza.png"
+    },
+    {
+      "id": 3,
+      "model": "Carens",
+      "slug": "carens",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/kia/image_carens.png"
+    },
+    {
+      "id": 4,
+      "model": "Carnival",
+      "slug": "carnival",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/kia/image_carnival.png"
+    },
+    {
+      "id": 5,
+      "model": "Ceed",
+      "slug": "ceed",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/kia/image_ceed.png"
+    },
+    {
+      "id": 6,
+      "model": "Ceed SW",
+      "slug": "ceed_sw",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/kia/image_ceed_sw.png"
+    },
+    {
+      "id": 7,
+      "model": "Cerato",
+      "slug": "cerato",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/kia/image_cerato.png"
+    },
+    {
+      "id": 8,
+      "model": "Forte",
+      "slug": "forte",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/kia/image_forte.png"
+    },
+    {
+      "id": 9,
+      "model": "K3",
+      "slug": "k3",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/kia/image_k3.png"
+    },
+    {
+      "id": 10,
+      "model": "K5",
+      "slug": "k5",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/kia/image_k5.png"
+    },
+    {
+      "id": 11,
+      "model": "Magentis",
+      "slug": "magentis",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/kia/image_magentis.png"
+    },
+    {
+      "id": 12,
+      "model": "Mohave",
+      "slug": "mohave",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/kia/image_mohave.png"
+    },
+    {
+      "id": 13,
+      "model": "Morning",
+      "slug": "morning",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/kia/image_morning.png"
+    },
+    {
+      "id": 14,
+      "model": "Picanto",
+      "slug": "picanto",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/kia/image_picanto.png"
+    },
+    {
+      "id": 15,
+      "model": "Niro",
+      "slug": "niro",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/kia/image_niro.png"
+    },
+    {
+      "id": 16,
+      "model": "Opirus",
+      "slug": "opirus",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/kia/image_opirus.png"
+    },
+    {
+      "id": 17,
+      "model": "Optima",
+      "slug": "optima",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/kia/image_optima.png"
+    },
+    {
+      "id": 18,
+      "model": "Quoris",
+      "slug": "quoris",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/kia/image_quoris.png"
+    },
+    {
+      "id": 19,
+      "model": "Rio",
+      "slug": "rio",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/kia/image_rio.png"
+    },
+    {
+      "id": 20,
+      "model": "Rio X-Line",
+      "slug": "rio_x_line",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/kia/image_rio_x_line.png"
+    },
+    {
+      "id": 21,
+      "model": "Soluto",
+      "slug": "soluto",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/kia/image_soluto.png"
+    },
+    {
+      "id": 22,
+      "model": "Sonet",
+      "slug": "sonet",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/kia/image_sonet.png"
+    },
+    {
+      "id": 23,
+      "model": "Sorento",
+      "slug": "sorento",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/kia/image_sorento.png"
+    },
+    {
+      "id": 24,
+      "model": "Soul",
+      "slug": "soul",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/kia/image_soul.png"
+    },
+    {
+      "id": 25,
+      "model": "Spectra",
+      "slug": "spectra",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/kia/image_spectra.png"
+    },
+    {
+      "id": 26,
+      "model": "Sportage",
+      "slug": "sportage",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/kia/image_sportage.png"
+    },
+    {
+      "id": 27,
+      "model": "Stinger",
+      "slug": "stinger",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/kia/image_stinger.png"
+    },
+    {
+      "id": 28,
+      "model": "Stonic",
+      "slug": "stonic",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/kia/image_stonic.png"
+    }
+  ]
 }
