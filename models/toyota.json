@@ -1,62 +1,196 @@
 {
   "models": [
-    { "id": 1, "model": "4Runner" },
-    { "id": 2, "model": "Alphard" },
-    { "id": 3, "model": "Aqua" },
-    { "id": 4, "model": "Aurion" },
-    { "id": 5, "model": "Auris" },
-    { "id": 6, "model": "Avalon" },
-    { "id": 7, "model": "Avensis" },
-    { "id": 8, "model": "bZ3X" },
-    { "id": 9, "model": "bZ4X" },
-    { "id": 10, "model": "C-HR" },
-    { "id": 11, "model": "Camry" },
-    { "id": 12, "model": "Carina" },
-    { "id": 13, "model": "Corolla" },
-    { "id": 14, "model": "Corolla Axio" },
-    { "id": 15, "model": "Corolla Cross" },
-    { "id": 16, "model": "Corolla Fielder" },
-    { "id": 17, "model": "Corolla iM" },
-    { "id": 18, "model": "Corolla Levin" },
-    { "id": 19, "model": "Corolla Verso" },
-    { "id": 20, "model": "Crown" },
-    { "id": 21, "model": "Crown Kluger" },
-    { "id": 22, "model": "Esquire" },
-    { "id": 23, "model": "FJ Cruiser" },
-    { "id": 24, "model": "Fortuner" },
-    { "id": 25, "model": "Frontlander" },
-    { "id": 26, "model": "Grand Highlander" },
-    { "id": 27, "model": "Harrier" },
-    { "id": 28, "model": "HiAce" },
-    { "id": 29, "model": "Highlander" },
-    { "id": 30, "model": "Hilux" },
-    { "id": 31, "model": "Hilux Surf" },
-    { "id": 32, "model": "Ipsum" },
-    { "id": 33, "model": "Ist" },
-    { "id": 34, "model": "Land Cruiser" },
-    { "id": 35, "model": "Land Cruiser Prado" },
-    { "id": 36, "model": "Mark II" },
-    { "id": 37, "model": "Passo" },
-    { "id": 38, "model": "Previa" },
-    { "id": 39, "model": "Prius" },
-    { "id": 40, "model": "Prius C" },
-    { "id": 41, "model": "Prius Prime" },
-    { "id": 42, "model": "Prius V" },
-    { "id": 43, "model": "Probox" },
-    { "id": 44, "model": "Raize" },
-    { "id": 45, "model": "RAV4" },
-    { "id": 46, "model": "Rush" },
-    { "id": 47, "model": "Sequoia" },
-    { "id": 48, "model": "Sienna" },
-    { "id": 49, "model": "Sienta" },
-    { "id": 50, "model": "Solara" },
-    { "id": 51, "model": "Supra" },
-    { "id": 52, "model": "Venza" },
-    { "id": 53, "model": "Verso-S" },
-    { "id": 54, "model": "Vitz" },
-    { "id": 55, "model": "Yaris" },
-    { "id": 56, "model": "Yaris Cross" },
-    { "id": 57, "model": "Yaris iA" }
-  ],
-  "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/default/default_toyota.png"
+    {
+      "id": 1,
+      "model": "4Runner",
+      "slug": "4_runner",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/toyota/image_4_runner.png"
+    },
+    {
+      "id": 2,
+      "model": "Alphard",
+      "slug": "alphard",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/toyota/image_alphard.png"
+    },
+    {
+      "id": 3,
+      "model": "Aurion",
+      "slug": "aurion",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/toyota/image_aurion.png"
+    },
+    {
+      "id": 4,
+      "model": "Auris",
+      "slug": "auris",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/toyota/image_auris.png"
+    },
+    {
+      "id": 5,
+      "model": "Avalon",
+      "slug": "avalon",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/toyota/image_avalon.png"
+    },
+    {
+      "id": 6,
+      "model": "Avensis",
+      "slug": "avensis",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/toyota/image_avensis.png"
+    },
+    {
+      "id": 7,
+      "model": "C-HR",
+      "slug": "c_hr",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/toyota/image_c_hr.png"
+    },
+    {
+      "id": 8,
+      "model": "Camry",
+      "slug": "camry",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/toyota/image_camry.png"
+    },
+    {
+      "id": 9,
+      "model": "Corolla",
+      "slug": "corolla",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/toyota/image_corolla.png"
+    },
+    {
+      "id": 10,
+      "model": "Corolla Axio",
+      "slug": "corolla_axio",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/toyota/image_corolla_axio.png"
+    },
+    {
+      "id": 11,
+      "model": "FJ Cruiser",
+      "slug": "fj_cruiser",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/toyota/image_fj_cruiser.png"
+    },
+    {
+      "id": 12,
+      "model": "Fortuner",
+      "slug": "fortuner",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/toyota/image_fortuner.png"
+    },
+    {
+      "id": 13,
+      "model": "HiAce",
+      "slug": "hiace",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/toyota/image_hiace.png"
+    },
+    {
+      "id": 14,
+      "model": "Highlander",
+      "slug": "highlander",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/toyota/image_highlander.png"
+    },
+    {
+      "id": 15,
+      "model": "Hilux",
+      "slug": "hilux",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/toyota/image_hilux.png"
+    },
+    {
+      "id": 16,
+      "model": "Ist",
+      "slug": "ist",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/toyota/image_ist.png"
+    },
+    {
+      "id": 17,
+      "model": "Land Cruiser",
+      "slug": "land_cruise",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/toyota/image_land_cruise.png"
+    },
+    {
+      "id": 18,
+      "model": "Land Cruiser Prado",
+      "slug": "land_cruiser_prado",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/toyota/image_land_cruiser_prado.png"
+    },
+    {
+      "id": 19,
+      "model": "Prius",
+      "slug": "prius",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/toyota/image_prius.png"
+    },
+    {
+      "id": 20,
+      "model": "Prius C",
+      "slug": "prius_c",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/toyota/image_prius_c.png"
+    },
+    {
+      "id": 21,
+      "model": "Prius Prime",
+      "slug": "prius_prime",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/toyota/image_prius_prime.png"
+    },
+    {
+      "id": 22,
+      "model": "Prius V",
+      "slug": "prius_v",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/toyota/image_prius_v.png"
+    },
+    {
+      "id": 23,
+      "model": "RAV4",
+      "slug": "rav_4",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/toyota/image_rav_4.png"
+    },
+    {
+      "id": 24,
+      "model": "Rush",
+      "slug": "rush",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/toyota/image_rush.png"
+    },
+    {
+      "id": 25,
+      "model": "Sequoia",
+      "slug": "sequoia",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/toyota/image_sequoia.png"
+    },
+    {
+      "id": 26,
+      "model": "Sienna",
+      "slug": "sienna",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/toyota/image_sienna.png"
+    },
+    {
+      "id": 27,
+      "model": "Solara",
+      "slug": "solara",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/toyota/image_solara.png"
+    },
+    {
+      "id": 28,
+      "model": "Supra",
+      "slug": "supra",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/toyota/image_supra.png"
+    },
+    {
+      "id": 29,
+      "model": "Venza",
+      "slug": "venza",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/toyota/image_venza.png"
+    },
+    {
+      "id": 30,
+      "model": "Vitz",
+      "slug": "vitz",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/toyota/image_vitz.png"
+    },
+    {
+      "id": 31,
+      "model": "Yaris",
+      "slug": "yaris",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/toyota/image_yaris.png"
+    },
+    {
+      "id": 32,
+      "model": "Yaris iA",
+      "slug": "yaris_ia",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/toyota/image_yaris_ia.png"
+    }
+  ]
 }
