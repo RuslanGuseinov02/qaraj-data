@@ -1,39 +1,160 @@
 {
   "models": [
-    { "id": 1, "model": "B-MAX" },
-    { "id": 2, "model": "Bronco" },
-    { "id": 3, "model": "Bronco Sport" },
-    { "id": 4, "model": "C-MAX" },
-    { "id": 5, "model": "Capri" },
-    { "id": 6, "model": "Cargo" },
-    { "id": 7, "model": "Courier" },
-    { "id": 8, "model": "EcoSport" },
-    { "id": 9, "model": "Edge" },
-    { "id": 10, "model": "Escape" },
-    { "id": 11, "model": "Escort" },
-    { "id": 12, "model": "Expedition" },
-    { "id": 13, "model": "Explorer" },
-    { "id": 14, "model": "F-150" },
-    { "id": 15, "model": "Fiesta" },
-    { "id": 16, "model": "Flex" },
-    { "id": 17, "model": "Focus" },
-    { "id": 18, "model": "Fusion" },
-    { "id": 19, "model": "Galaxie" },
-    { "id": 20, "model": "Galaxy" },
-    { "id": 21, "model": "Granada" },
-    { "id": 22, "model": "Kuga" },
-    { "id": 23, "model": "Maverick" },
-    { "id": 24, "model": "Mondeo" },
-    { "id": 25, "model": "Mustang" },
-    { "id": 26, "model": "Mustang Mach-E" },
-    { "id": 27, "model": "Ranger" },
-    { "id": 28, "model": "Tourneo" },
-    { "id": 29, "model": "Tourneo Connect" },
-    { "id": 30, "model": "Tourneo Custom" },
-    { "id": 31, "model": "Transit" },
-    { "id": 32, "model": "Transit Connect" },
-    { "id": 33, "model": "Transit Courier" },
-    { "id": 34, "model": "Transit Custom" }
-  ],
-  "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/default/default_ford.png"
+    {
+      "id": 1,
+      "model": "B-MAX",
+      "slug": "b_max",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/ford/image_b_max.png"
+    },
+    {
+      "id": 2,
+      "model": "Bronco",
+      "slug": "bronco",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/ford/image_bronco.png"
+    },
+    {
+      "id": 3,
+      "model": "Bronco Sport",
+      "slug": "bronco_sport",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/ford/image_bronco_sport.png"
+    },
+    {
+      "id": 4,
+      "model": "C-MAX",
+      "slug": "c_max",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/ford/image_c_max.png"
+    },
+    {
+      "id": 5,
+      "model": "Capri",
+      "slug": "capri",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/ford/image_capri.png"
+    },
+    {
+      "id": 6,
+      "model": "Cargo",
+      "slug": "cargo",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/ford/image_cargo.png"
+    },
+    {
+      "id": 7,
+      "model": "Courier",
+      "slug": "courier",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/ford/image_courier.png"
+    },
+    {
+      "id": 8,
+      "model": "EcoSport",
+      "slug": "eco_sport",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/ford/image_eco_sport.png"
+    },
+    {
+      "id": 9,
+      "model": "Edge",
+      "slug": "edge",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/ford/image_edge.png"
+    },
+    {
+      "id": 10,
+      "model": "Escape",
+      "slug": "escape",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/ford/image_escape.png"
+    },
+    {
+      "id": 11,
+      "model": "Expedition",
+      "slug": "expedition",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/ford/image_expedition.png"
+    },
+    {
+      "id": 12,
+      "model": "Explorer",
+      "slug": "explorer",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/ford/image_explorer.png"
+    },
+    {
+      "id": 13,
+      "model": "F-150",
+      "slug": "f_150",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/ford/image_f_150.png"
+    },
+    {
+      "id": 14,
+      "model": "Fiesta",
+      "slug": "fiesta",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/ford/image_fiesta.png"
+    },
+    {
+      "id": 15,
+      "model": "Flex",
+      "slug": "flex",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/ford/image_flex.png"
+    },
+    {
+      "id": 16,
+      "model": "Focus",
+      "slug": "focus",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/ford/image_focus.png"
+    },
+    {
+      "id": 17,
+      "model": "Fusion",
+      "slug": "fusion",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/ford/image_fusion.png"
+    },
+    {
+      "id": 18,
+      "model": "Galaxy",
+      "slug": "galaxy",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/ford/image_galaxy.png"
+    },
+    {
+      "id": 19,
+      "model": "Kuga",
+      "slug": "kuga",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/ford/image_kuga.png"
+    },
+    {
+      "id": 20,
+      "model": "Mondeo",
+      "slug": "mondeo",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/ford/image_mondeo.png"
+    },
+    {
+      "id": 21,
+      "model": "Mustang",
+      "slug": "mustang",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/ford/image_mustang.png"
+    },
+    {
+      "id": 22,
+      "model": "Ranger",
+      "slug": "ranger",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/ford/image_ranger.png"
+    },
+    {
+      "id": 23,
+      "model": "Tourneo Connect",
+      "slug": "tourneo_connect",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/ford/image_tourneo_connect.png"
+    },
+    {
+      "id": 24,
+      "model": "Transit",
+      "slug": "transit",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/ford/image_transit.png"
+    },
+    {
+      "id": 25,
+      "model": "Transit Connect",
+      "slug": "transit_connect",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/ford/image_transit_connect.png"
+    },
+    {
+      "id": 26,
+      "model": "Transit Custom",
+      "slug": "transit_custom",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/ford/image_transit_custom.png"
+    }
+  ]
 }
