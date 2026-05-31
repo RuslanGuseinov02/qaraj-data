@@ -1,59 +1,178 @@
 {
   "models": [
-    { "id": 1, "model": "190" },
-    { "id": 2, "model": "A-Class" },
-    { "id": 3, "model": "B-Class" },
-    { "id": 4, "model": "C-Class" },
-    { "id": 5, "model": "C-Class Coupe" },
-    { "id": 6, "model": "C-Class Cabriolet" },
-    { "id": 7, "model": "CLA" },
-    { "id": 8, "model": "CLA Shooting Brake" },
-    { "id": 9, "model": "CLK" },
-    { "id": 10, "model": "E-Class" },
-    { "id": 11, "model": "E-Class Coupe" },
-    { "id": 12, "model": "E-Class Cabriolet" },
-    { "id": 13, "model": "S-Class" },
-    { "id": 14, "model": "S-Class Coupe" },
-    { "id": 15, "model": "S-Class Cabriolet" },
-    { "id": 16, "model": "CLS" },
-    { "id": 17, "model": "GLA" },
-    { "id": 18, "model": "GLB" },
-    { "id": 19, "model": "GLC" },
-    { "id": 20, "model": "GLC Coupe" },
-    { "id": 21, "model": "GLE" },
-    { "id": 22, "model": "GLE Coupe" },
-    { "id": 23, "model": "GLS" },
-    { "id": 24, "model": "G-Class" },
-    { "id": 25, "model": "SLK" },
-    { "id": 26, "model": "SL" },
-    { "id": 27, "model": "SLC" },
-    { "id": 28, "model": "AMG GT" },
-    { "id": 29, "model": "AMG GT 4-Door" },
-    { "id": 30, "model": "EQB" },
-    { "id": 31, "model": "EQC" },
-    { "id": 32, "model": "EQE" },
-    { "id": 33, "model": "EQE SUV" },
-    { "id": 34, "model": "EQS" },
-    { "id": 35, "model": "EQS SUV" },
-    { "id": 36, "model": "Maybach S-Class" },
-    { "id": 37, "model": "Maybach GLS" },
-    { "id": 38, "model": "V-Class" },
-    { "id": 39, "model": "Vito" },
-    { "id": 40, "model": "Sprinter" },
-    { "id": 41, "model": "Citan" },
-    { "id": 42, "model": "GLK" },
-    { "id": 43, "model": "R-Class" },
-    { "id": 44, "model": "M-Class" },
-    { "id": 45, "model": "GL-Class" },
-    { "id": 46, "model": "600" },
-    { "id": 47, "model": "300D" },
-    { "id": 48, "model": "230" },
-    { "id": 49, "model": "250" },
-    { "id": 50, "model": "280" },
-    { "id": 51, "model": "G-Class AMG" },
-    { "id": 52, "model": "C-Class AMG" },
-    { "id": 53, "model": "E-Class AMG" },
-    { "id": 54, "model": "S-Class AMG" }
-  ],
-  "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/default/default_mercedes.png"
+    {
+      "id": 1,
+      "model": "A-Class",
+      "slug": "a_class",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/mercedes/image_a_class.png"
+    },
+    {
+      "id": 2,
+      "model": "B-Class",
+      "slug": "b_class",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/mercedes/image_b_class.png"
+    },
+    {
+      "id": 3,
+      "model": "C-Class",
+      "slug": "c_class",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/mercedes/image_c_class.png"
+    },
+    {
+      "id": 4,
+      "model": "CLA",
+      "slug": "cla",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/mercedes/image_cla.png"
+    },
+    {
+      "id": 5,
+      "model": "CLK",
+      "slug": "clkc",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/mercedes/image_clkc.png"
+    },
+    {
+      "id": 6,
+      "model": "E-Class",
+      "slug": "e_class",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/mercedes/image_e_class.png"
+    },
+    {
+      "id": 7,
+      "model": "S-Class",
+      "slug": "s_class",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/mercedes/image_s_class.png"
+    },
+    {
+      "id": 8,
+      "model": "CLS",
+      "slug": "cls",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/mercedes/image_cls.png"
+    },
+    {
+      "id": 9,
+      "model": "GLA",
+      "slug": "gla",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/mercedes/image_gla.png"
+    },
+    {
+      "id": 10,
+      "model": "GLC",
+      "slug": "glc",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/mercedes/image_glc.png"
+    },
+    {
+      "id": 11,
+      "model": "GLE",
+      "slug": "gle",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/mercedes/image_gle.png"
+    },
+    {
+      "id": 12,
+      "model": "GLS",
+      "slug": "gls",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/mercedes/image_gls.png"
+    },
+    {
+      "id": 13,
+      "model": "G-Class",
+      "slug": "g_class",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/mercedes/image_g_class.png"
+    },
+    {
+      "id": 14,
+      "model": "SLK",
+      "slug": "slk",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/mercedes/image_slk.png"
+    },
+    {
+      "id": 15,
+      "model": "SLC",
+      "slug": "slc",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/mercedes/image_slc.png"
+    },
+    {
+      "id": 16,
+      "model": "AMG GT",
+      "slug": "amg_gt",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/mercedes/image_amg_gt.png"
+    },
+    {
+      "id": 17,
+      "model": "Maybach S-Class",
+      "slug": "maybach_s_class",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/mercedes/image_maybach_s_class.png"
+    },
+    {
+      "id": 18,
+      "model": "V-Class",
+      "slug": "v_class",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/mercedes/image_v_class.png"
+    },
+    {
+      "id": 19,
+      "model": "Vito",
+      "slug": "vito",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/mercedes/image_vito.png"
+    },
+    {
+      "id": 20,
+      "model": "Sprinter",
+      "slug": "sprinter",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/mercedes/image_sprinter.png"
+    },
+    {
+      "id": 21,
+      "model": "Citan",
+      "slug": "citan",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/mercedes/image_citan.png"
+    },
+    {
+      "id": 22,
+      "model": "GLK",
+      "slug": "glk",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/mercedes/image_glk.png"
+    },
+    {
+      "id": 23,
+      "model": "R-Class",
+      "slug": "r_class",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/mercedes/image_r_class.png"
+    },
+    {
+      "id": 24,
+      "model": "M-Class",
+      "slug": "m_class",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/mercedes/image_m_class.png"
+    },
+    {
+      "id": 25,
+      "model": "GL-Class",
+      "slug": "gl_class",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/mercedes/image_gl_class.png"
+    },
+    {
+      "id": 26,
+      "model": "G-Class AMG",
+      "slug": "g_class_amg",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/mercedes/image_g_class_amg.png"
+    },
+    {
+      "id": 27,
+      "model": "C-Class AMG",
+      "slug": "c_class_amg",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/mercedes/image_c_class_amg.png"
+    },
+    {
+      "id": 28,
+      "model": "E-Class AMG",
+      "slug": "e_class_amg",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/mercedes/image_e_class_amg.png"
+    },
+    {
+      "id": 29,
+      "model": "S-Class AMG",
+      "slug": "s_class_amg",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/mercedes/image_s_class_amg.png"
+    }
+  ]
 }
