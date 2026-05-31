@@ -1,41 +1,160 @@
 {
   "models": [
-    { "id": 1, "model": "Almera" },
-    { "id": 2, "model": "Altima" },
-    { "id": 3, "model": "Ariya" },
-    { "id": 4, "model": "Armada" },
-    { "id": 5, "model": "Cedric" },
-    { "id": 6, "model": "Juke" },
-    { "id": 7, "model": "Juke Nismo" },
-    { "id": 8, "model": "Kicks" },
-    { "id": 9, "model": "Latio" },
-    { "id": 10, "model": "Leaf" },
-    { "id": 11, "model": "Magnite" },
-    { "id": 12, "model": "March" },
-    { "id": 13, "model": "Maxima" },
-    { "id": 14, "model": "Micra" },
-    { "id": 15, "model": "Murano" },
-    { "id": 16, "model": "Navara" },
-    { "id": 17, "model": "Note" },
-    { "id": 18, "model": "Paladin" },
-    { "id": 19, "model": "Pathfinder" },
-    { "id": 20, "model": "Patrol" },
-    { "id": 21, "model": "Primera" },
-    { "id": 22, "model": "Qashqai" },
-    { "id": 23, "model": "Qashqai+2" },
-    { "id": 24, "model": "Rogue" },
-    { "id": 25, "model": "Sentra" },
-    { "id": 26, "model": "Sunny" },
-    { "id": 27, "model": "Teana" },
-    { "id": 28, "model": "Terrano" },
-    { "id": 29, "model": "Terrano II" },
-    { "id": 30, "model": "Tiida" },
-    { "id": 31, "model": "Urvan" },
-    { "id": 32, "model": "Versa" },
-    { "id": 33, "model": "Versa Note" },
-    { "id": 34, "model": "Wingroad" },
-    { "id": 35, "model": "X-Trail" },
-    { "id": 36, "model": "Xterra" }
-  ],
-  "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/default/default_nissan.png"
+    {
+      "id": 1,
+      "model": "Almera",
+      "slug": "almera",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/nissan/image_almera.png"
+    },
+    {
+      "id": 2,
+      "model": "Altima",
+      "slug": "altima",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/nissan/image_altima.png"
+    },
+    {
+      "id": 3,
+      "model": "Armada",
+      "slug": "armada",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/nissan/image_armada.png"
+    },
+    {
+      "id": 4,
+      "model": "Juke",
+      "slug": "juke",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/nissan/image_juke.png"
+    },
+    {
+      "id": 5,
+      "model": "Juke Nismo",
+      "slug": "juke_nismo",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/nissan/image_juke_nismo.png"
+    },
+    {
+      "id": 6,
+      "model": "Kicks",
+      "slug": "kicks",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/nissan/image_kicks.png"
+    },
+    {
+      "id": 7,
+      "model": "Latio",
+      "slug": "latio",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/nissan/image_latio.png"
+    },
+    {
+      "id": 8,
+      "model": "Leaf",
+      "slug": "leaf",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/nissan/image_leaf.png"
+    },
+    {
+      "id": 9,
+      "model": "March",
+      "slug": "march",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/nissan/image_march.png"
+    },
+    {
+      "id": 10,
+      "model": "Maxima",
+      "slug": "maxima",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/nissan/image_maxima.png"
+    },
+    {
+      "id": 11,
+      "model": "Micra",
+      "slug": "micra",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/nissan/image_micra.png"
+    },
+    {
+      "id": 12,
+      "model": "Murano",
+      "slug": "murano",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/nissan/image_murano.png"
+    },
+    {
+      "id": 13,
+      "model": "Navara",
+      "slug": "navara",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/nissan/image_navara.png"
+    },
+    {
+      "id": 14,
+      "model": "Note",
+      "slug": "note",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/nissan/image_note.png"
+    },
+    {
+      "id": 15,
+      "model": "Pathfinder",
+      "slug": "pathfielder",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/nissan/image_pathfielder.png"
+    },
+    {
+      "id": 16,
+      "model": "Patrol",
+      "slug": "patrol",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/nissan/image_patrol.png"
+    },
+    {
+      "id": 17,
+      "model": "Qashqai",
+      "slug": "qashqai",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/nissan/image_qashqai.png"
+    },
+    {
+      "id": 18,
+      "model": "Sentra",
+      "slug": "sentra",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/nissan/image_sentra.png"
+    },
+    {
+      "id": 19,
+      "model": "Sunny",
+      "slug": "sunny",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/nissan/image_sunny.png"
+    },
+    {
+      "id": 20,
+      "model": "Teana",
+      "slug": "teana",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/nissan/image_teana.png"
+    },
+    {
+      "id": 21,
+      "model": "Terrano",
+      "slug": "terrano",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/nissan/image_terrano.png"
+    },
+    {
+      "id": 22,
+      "model": "Tiida",
+      "slug": "tiida",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/nissan/image_tiida.png"
+    },
+    {
+      "id": 23,
+      "model": "Versa",
+      "slug": "versa",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/nissan/image_versa.png"
+    },
+    {
+      "id": 24,
+      "model": "Versa Note",
+      "slug": "versa_note",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/nissan/image_versa_note.png"
+    },
+    {
+      "id": 25,
+      "model": "X-Trail",
+      "slug": "x_trail",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/nissan/image_x_trail.png"
+    },
+    {
+      "id": 26,
+      "model": "Xterra",
+      "slug": "xterra",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/nissan/image_xterra.png"
+    }
+  ]
 }
