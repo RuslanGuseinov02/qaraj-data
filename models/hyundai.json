@@ -1,62 +1,178 @@
 {
   "models": [
-    { "id": 1, "model": "Accent" },
-    { "id": 2, "model": "Avante" },
-    { "id": 3, "model": "Azera" },
-    { "id": 4, "model": "Bayon" },
-    { "id": 5, "model": "County" },
-    { "id": 6, "model": "Coupe" },
-    { "id": 7, "model": "Creta" },
-    { "id": 8, "model": "Elantra" },
-    { "id": 9, "model": "Elantra GT" },
-    { "id": 10, "model": "Elantra N" },
-    { "id": 11, "model": "Elantra N Line" },
-    { "id": 12, "model": "Equus" },
-    { "id": 13, "model": "Galloper" },
-    { "id": 14, "model": "Genesis" },
-    { "id": 15, "model": "Genesis Coupe" },
-    { "id": 16, "model": "Getz" },
-    { "id": 17, "model": "Grand Santa Fe" },
-    { "id": 18, "model": "Grandeur" },
-    { "id": 19, "model": "H100" },
-    { "id": 20, "model": "H350" },
-    { "id": 21, "model": "H-1" },
-    { "id": 22, "model": "HD120" },
-    { "id": 23, "model": "HD270" },
-    { "id": 24, "model": "HD35" },
-    { "id": 25, "model": "HD65" },
-    { "id": 26, "model": "HD72" },
-    { "id": 27, "model": "HD78" },
-    { "id": 28, "model": "i10" },
-    { "id": 29, "model": "i20" },
-    { "id": 30, "model": "i30" },
-    { "id": 31, "model": "i40" },
-    { "id": 32, "model": "IONIQ" },
-    { "id": 33, "model": "IONIQ 5" },
-    { "id": 34, "model": "ix35" },
-    { "id": 35, "model": "ix55" },
-    { "id": 36, "model": "Kona" },
-    { "id": 37, "model": "Matrix" },
-    { "id": 38, "model": "Maxcruz" },
-    { "id": 39, "model": "Mighty EX5" },
-    { "id": 40, "model": "Mighty EX6" },
-    { "id": 41, "model": "Mighty EX8" },
-    { "id": 42, "model": "Mighty EX9" },
-    { "id": 43, "model": "Mighty GT11" },
-    { "id": 44, "model": "Palisade" },
-    { "id": 45, "model": "Santa Cruz" },
-    { "id": 46, "model": "Santa Fe" },
-    { "id": 47, "model": "Sonata" },
-    { "id": 48, "model": "Sonata N Line" },
-    { "id": 49, "model": "Staria" },
-    { "id": 50, "model": "Terracan" },
-    { "id": 51, "model": "Tiburon" },
-    { "id": 52, "model": "Tucson" },
-    { "id": 53, "model": "Tucson L" },
-    { "id": 54, "model": "Veloster" },
-    { "id": 55, "model": "Venue" },
-    { "id": 56, "model": "Veracruz" },
-    { "id": 57, "model": "Verna" }
-  ],
-  "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/default/default_hyundai.png"
+    {
+      "id": 1,
+      "model": "Accent",
+      "slug": "accent",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/hyundai/image_accent.png"
+    },
+    {
+      "id": 2,
+      "model": "Azera",
+      "slug": "azera",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/hyundai/image_azera.png"
+    },
+    {
+      "id": 3,
+      "model": "County",
+      "slug": "county",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/hyundai/image_county.png"
+    },
+    {
+      "id": 4,
+      "model": "Coupe",
+      "slug": "coupe",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/hyundai/image_coupe.png"
+    },
+    {
+      "id": 5,
+      "model": "Creta",
+      "slug": "creta",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/hyundai/image_creta.png"
+    },
+    {
+      "id": 6,
+      "model": "Elantra",
+      "slug": "elantra",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/hyundai/image_elantra.png"
+    },
+    {
+      "id": 7,
+      "model": "Elantra GT",
+      "slug": "elantra_gt",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/hyundai/image_elantra_gt.png"
+    },
+    {
+      "id": 8,
+      "model": "Elantra N",
+      "slug": "elantra_n",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/hyundai/image_elantra_n.png"
+    },
+    {
+      "id": 9,
+      "model": "Equus",
+      "slug": "equus",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/hyundai/image_equus.png"
+    },
+    {
+      "id": 10,
+      "model": "Getz",
+      "slug": "getz",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/hyundai/image_getz.png"
+    },
+    {
+      "id": 11,
+      "model": "Grand Santa Fe",
+      "slug": "grand_santa_fe",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/hyundai/image_grand_santa_fe.png"
+    },
+    {
+      "id": 12,
+      "model": "Grandeur",
+      "slug": "grandeur",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/hyundai/image_grandeur.png"
+    },
+    {
+      "id": 13,
+      "model": "H-1",
+      "slug": "h_1",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/hyundai/image_h_1.png"
+    },
+    {
+      "id": 14,
+      "model": "H100",
+      "slug": "h_100",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/hyundai/image_h_100.png"
+    },
+    {
+      "id": 15,
+      "model": "H350",
+      "slug": "h_350",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/hyundai/image_h_350.png"
+    },
+    {
+      "id": 16,
+      "model": "i10",
+      "slug": "i_10",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/hyundai/image_i_10.png"
+    },
+    {
+      "id": 17,
+      "model": "i20",
+      "slug": "i_20",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/hyundai/image_i_20.png"
+    },
+    {
+      "id": 18,
+      "model": "i30",
+      "slug": "i_30",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/hyundai/image_i_30.png"
+    },
+    {
+      "id": 19,
+      "model": "i40",
+      "slug": "i_40",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/hyundai/image_i_40.png"
+    },
+    {
+      "id": 20,
+      "model": "IONIQ 5",
+      "slug": "ioniq_5",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/hyundai/image_ioniq_5.png"
+    },
+    {
+      "id": 21,
+      "model": "ix35",
+      "slug": "ix_35",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/hyundai/image_ix_35.png"
+    },
+    {
+      "id": 22,
+      "model": "Kona",
+      "slug": "kona",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/hyundai/image_kona.png"
+    },
+    {
+      "id": 23,
+      "model": "Santa Fe",
+      "slug": "santa_fe",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/hyundai/image_santa_fe.png"
+    },
+    {
+      "id": 24,
+      "model": "Sonata",
+      "slug": "sonata",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/hyundai/image_sonata.png"
+    },
+    {
+      "id": 25,
+      "model": "Tiburon",
+      "slug": "tiburon",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/hyundai/image_tiburon.png"
+    },
+    {
+      "id": 26,
+      "model": "Tucson",
+      "slug": "tucson",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/hyundai/image_tucson.png"
+    },
+    {
+      "id": 27,
+      "model": "Veloster",
+      "slug": "veloster",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/hyundai/image_veloster.png"
+    },
+    {
+      "id": 28,
+      "model": "Veracruz",
+      "slug": "veracruze",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/hyundai/image_veracruze.png"
+    },
+    {
+      "id": 29,
+      "model": "Verna",
+      "slug": "verna",
+      "image": "https://raw.githubusercontent.com/RuslanGuseinov02/qaraj-data/main/images/hyundai/image_verna.png"
+    }
+  ]
 }
